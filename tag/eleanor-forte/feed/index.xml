@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eleanor Forte Archives - VNN</title>
+	<atom:link href="/tag/eleanor-forte/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Everything about virtual voices, just one click away!</description>
+	<lastBuildDate>Sat, 18 Aug 2018 18:55:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/06/cropped-VNNLOGOSQUARE3-32x32.png</url>
+	<title>Eleanor Forte Archives - VNN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Synthesizer V Technical Preview available now!</title>
+		<link>/synthesizer-v-technical-preview-available-now/</link>
+					<comments>/synthesizer-v-technical-preview-available-now/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Jade Kaiba]]></dc:creator>
+		<pubDate>Sat, 18 Aug 2018 18:47:36 +0000</pubDate>
+				<category><![CDATA[Merchandise]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Eleanor Forte]]></category>
+		<category><![CDATA[Synthesizer V]]></category>
+		<guid isPermaLink="false">/?p=178963</guid>
+
+					<description><![CDATA[<p>The technical preview for the new voice synthesizer software, Synthesizer V, has been released today! Synthesizer V is a new voice synthesizer software developed by Kanru Hua, with language support for English, Japanese, Chinese and Korean. For Japanese and Chinese lyrics, the lyrics can be entered either as characters or as the romanized spelling. The &#8230;</p>
+<p>The post <a rel="nofollow" href="/synthesizer-v-technical-preview-available-now/">Synthesizer V Technical Preview available now!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The technical preview for the new voice synthesizer software, <a href="https://vocadb.net/T/6745/synthesizer-v" target="_blank" rel="noopener">Synthesizer V</a>, has been released today!</p>
+<p>Synthesizer V is a new voice synthesizer software developed by Kanru Hua, with language support for English, Japanese, Chinese and Korean.</p>
+<p>For Japanese and Chinese lyrics, the lyrics can be entered either as characters or as the romanized spelling.</p>
+<p>The editor also features real-time pitch visualisation and synchronized parameter editing to simplify the workflow for producers.</p>
+<p>Read on for more information on the voices available and to see video demonstrations of Synthesizer V in action!</p>
+<h2>Voices</h2>
+<p>Currently, the Technical Preview contains one English voice but the full version of Synthesizer V shall feature English, Japanese and Mandarin Chinese voices, named ENG-F1, JP-F1 and MAN-F1 respectively.</p>
+<p>ENG-F1 is also known as <a href="https://vocadb.net/Ar/66906" target="_blank" rel="noopener">Eleanor Forte</a> and has her own design, drawn by <a href="https://www.pixiv.net/member.php?id=3270119">Chuuko Anpu</a>, which you can view below.</p>
+<p><a href="/wp-content/uploads/2018/08/Eleaonor-Forte.png"><img loading="lazy" class="aligncenter wp-image-178964 size-full" src="/wp-content/uploads/2018/08/Eleaonor-Forte.png" alt="Image of Eleaonor Forte" width="498" height="662" srcset="/wp-content/uploads/2018/08/Eleaonor-Forte.png 498w, /wp-content/uploads/2018/08/Eleaonor-Forte-226x300.png 226w" sizes="(max-width: 498px) 100vw, 498px" /></a><a href="/wp-content/uploads/2018/08/Eleaonor-Forte-Concept.png"><img loading="lazy" class="aligncenter wp-image-178976 size-large" src="/wp-content/uploads/2018/08/Eleaonor-Forte-Concept-1024x579.png" alt="Image of the Eleanor Forte Concept Art" width="618" height="349" srcset="/wp-content/uploads/2018/08/Eleaonor-Forte-Concept-1024x579.png 1024w, /wp-content/uploads/2018/08/Eleaonor-Forte-Concept-300x170.png 300w, /wp-content/uploads/2018/08/Eleaonor-Forte-Concept-800x453.png 800w, /wp-content/uploads/2018/08/Eleaonor-Forte-Concept.png 1419w" sizes="(max-width: 618px) 100vw, 618px" /></a></p>
+<h2>Demos</h2>
+<p>There are currently 4 demonstration videos on the official website for Synthesizer V, which you can view below.</p>
+<p>The first demo is a Cover of SILENCE, which has been tuned by Cillia and features the English voicebank, ENG-F1.</p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/t4TkePuLGYQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>The second demo is a cover of Uta ni Katachi wa Nai Keredo, tuned by Umine Kyo and features the Mandarin Chinese voicebank, MAN-F1.</p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/YVo4DbAQRjU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>The second demo is a cover of Butterfly, which has been tuned by Amonokei and features the Japanese voicebank, JA-F1.</p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/JyHrHVawpr4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>To see how the software is used, check out the fourth demo where Kanru Hua himself demonstrates the features and voices of the software.</p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/aW6x6EMACbg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2>How to download</h2>
+<p>You can download the Synthesizer V Technical Preview and the English voicebank, Eleanor Forte, for free right now from the <a href="https://synthesizerv.com/download/" target="_blank" rel="noopener">downloads page</a> on the Synthesizer V website.</p>
+<p><strong>System Requirements</strong></p>
+<ul>
+<li>Processor: Intel or AMD processors with SSSE3 instruction set. (This includes most Intel CPUs released since 2007.)</li>
+<li>Memory: 1GB or more.</li>
+<li>Operating System: Microsoft Windows 7 or above (32/64 bit) or Ubuntu 16.04 or above (64 bit).</li>
+<li>Disk Space: 300 MB</li>
+</ul>
+<p>Please also note the <a href="https://synthesizerv.com/common/document/software-license-en.pdf" target="_blank" rel="noopener">Software License</a> and <a href="https://synthesizerv.com/common/document/character-license-en.pdf" target="_blank" rel="noopener">Character and Voice Database License</a>.</p>
+<h2>Plans for the future</h2>
+<p>As previously stated, there are also the Japanese and Mandarin Chinese voices coming to Synthesizer V. The official website also states that there are further plans for more languages and dialects in the future.</p>
+<p>Stay tuned to VNN for further updates on this exciting new software!</p>
+<h3>Source</h3>
+<p><a href="https://synthesizerv.com/" target="_blank" rel="noopener">Synthesizer V Offical Website</a></p>
+<p>The post <a rel="nofollow" href="/synthesizer-v-technical-preview-available-now/">Synthesizer V Technical Preview available now!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/synthesizer-v-technical-preview-available-now/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Interviews Archives - VNN</title>
+	<atom:link href="/category/community/interviews/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Everything about virtual voices, just one click away!</description>
+	<lastBuildDate>Sat, 26 Jan 2019 00:09:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/06/cropped-VNNLOGOSQUARE3-32x32.png</url>
+	<title>Interviews Archives - VNN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>VNN Interview with Kanru Hua for Synthesizer V!</title>
+		<link>/vnn-interview-kanru-hua-synthesizer-v/</link>
+					<comments>/vnn-interview-kanru-hua-synthesizer-v/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Spookie]]></dc:creator>
+		<pubDate>Sat, 26 Jan 2019 00:09:00 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Other Vocal Synthesizer]]></category>
+		<category><![CDATA[Synthesizer V]]></category>
+		<guid isPermaLink="false">/?p=208907</guid>
+
+					<description><![CDATA[<p>We talked a lot about Synthesizer V lately, one of the most recent and awaited new synthesizer software, developed by Dreamtonics. We also talked a lot about the newest additions to Synth V&#8217;s voice libraries: GENBU, Yamine Renri and, of course, AiKO, its first commercial Chinese voicebank. Now, I got the chance to interview Kanru &#8230;</p>
+<p>The post <a rel="nofollow" href="/vnn-interview-kanru-hua-synthesizer-v/">VNN Interview with Kanru Hua for Synthesizer V!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>We talked a lot about <strong>Synthesizer V</strong> lately, one of the most recent and awaited new synthesizer software, developed by Dreamtonics. We also talked a lot about the newest additions to Synth V&#8217;s voice libraries: <a href="https://vocadb.net/Ar/70241">GENBU</a>, <a href="https://vocadb.net/Ar/69286">Yamine Renri</a> and, of course, <a href="https://vocadb.net/Ar/69866">AiKO</a>, its first commercial Chinese voicebank. <br />Now, I got the chance to interview <strong>Kanru Hua</strong> and talk with him about their software for VNN! It was really an honor for us and we&#8217;re very glad we could interview him. You can read the interview below, hope you enjoy!</p>
+
+
+
+<h4><strong>Dorelly: Hello and nice to meet you! Thank you so much for letting me interview you! I&#8217;m kinda honored actually!</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: No need to be formal lol You&#8217;re also a student in Computer Science, right?</p>
+
+
+
+<h4><strong>Dorelly: Correct, and I&#8217;ve always been interested in Synthesizers myself, in fact I was very excited when I first saw your Moresampler for UTAU and my first thought was &#8220;Oh my god I&#8217;m not alone!&#8221;</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: Curiosity is a nice thing to have. I&#8217;ve been wanting to create something that&#8217;s &#8220;sheer overpowered&#8221; unlike anything you&#8217;ve seen before, haha.</p>
+
+
+
+<h4><strong>Dorelly: Oh I could feel this aura through Synth V! When did you start working on it?</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: The idea (technology-wise) was around early 2015. But back then the techs were not mature enough for production use. I did a survey on most major publications in speech synthesis from 1975 to 2015 and in August 2015 a mock-up <a href="https://en.wikipedia.org/wiki/Sinsy">Sinsy</a> was created. I now semi-jokingly refer to it as Synth IV.</p>
+
+
+
+<h4><strong>Dorelly: So Sinsy was your first inspiration?</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: Not actually. That was just for gaining a solid understanding of existing arts. For any serious research you need to stand on the shoulder of a giant.</p>
+
+
+
+<h4><strong>Dorelly: So what did give you the idea of making your own synthesizer, then?</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: Oh, if you don&#8217;t make one of your own it&#8217;s not interesting so it went this way without much thinking. By that point I thought it would be nice to do a hybrid approach of something between Vocaloid/UTAU and Sinsy/CEVIO. So there was Moresampler, more or less as an effort to mature the tech on the Vocaloid/UTAU side, while for the machine learning side of the art, there were different sub areas like NLP (Natural Language Processing) and acoustic modeling.</p>
+
+
+
+<h4><strong>Dorelly: I see. I guess there will be a point in time where I&#8217;ll get scared at how realistic <a href="https://vocadb.net/Ar/66906">Eleanor Forte</a> is! She&#8217;s already so clear now; I can&#8217;t imagine how she&#8217;ll be in the future! Speaking of Eleanor Forte, what was your reaction when you saw her design for the first time? I need to be honest, I loved it and couldn&#8217;t stop staring at it when she got revealed!</strong></h4>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="579" class="wp-image-178976" src="/wp-content/uploads/2018/08/Eleaonor-Forte-Concept-1024x579.png" alt="Image of the Eleanor Forte Concept Art" srcset="/wp-content/uploads/2018/08/Eleaonor-Forte-Concept-1024x579.png 1024w, /wp-content/uploads/2018/08/Eleaonor-Forte-Concept-300x170.png 300w, /wp-content/uploads/2018/08/Eleaonor-Forte-Concept-800x453.png 800w, /wp-content/uploads/2018/08/Eleaonor-Forte-Concept.png 1419w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>Concept art of Eleanor Forte by <a href="https://www.pixiv.net/member.php?id=3270119">Chuuko Anpu</a></figcaption>
+</figure>
+
+
+
+<p><strong>Kanru</strong>: I&#8217;m relieved. I was kind of afraid that her voice and design wouldn&#8217;t match. She had a larger head-to-body ratio and a more mature voice until we pulled them closer on each end in early August.</p>
+
+
+
+<h4><strong>Dorelly: I really love her design as much as her voice! I guess we will never know who her voice provider is.</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: We actually signed contract with the VP to prevent disclosure of any personal information. At the time of development she was only meant for internal tests, and we wanted to eliminate all factors that could impede or delay the progress. It turned out that she sounds better than expected though.</p>
+
+
+
+<h4><strong>Dorelly: I think she was meant to be, and I am glad she made it at the end! Do you plan to open Synth V&#8217;s doors to other companies for new characters/voicebanks, in the future?</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: I am but it&#8217;s kinda hard to find a solid business partner. Also, we&#8217;re trying to separate tech and marketing. Dreamtonics will always be on the tech part. Our clients handle the marketing side and launching a character takes more resource than most people would expect.</p>
+
+
+
+<h4><strong>Dorelly: I can totally understand. I truly hope we will see not only more new character voices, but also more promotion for Eleanor Forte, AiKO and Genbu in the future!</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: Just hold my beer!</p>
+
+
+
+<h4><strong>Dorelly: Speaking of character and voices, I always wondered which language was the hardest to implement, actually.</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: I guess English and Mandarin Chinese were about equally hard, while Japanese was the easiest. English mostly because of a combinatorial problem (the sheer number of diphones), while Mandarin&#8217;s difficulty was more on the nuances (not as many diphones but there were nasty triphones to work with).</p>
+
+
+
+<h4><strong>Dorelly: Those languages surely must&#8217;ve been interesting to work with, just like all the features that you added to Synth V! I&#8217;ve come to a point where all I can think is &#8220;What could we need more!&#8221; Which makes me wonder, among all the featured in Synth V do you have a favorite one?</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: Probably Glottal Effects. I know it&#8217;s probably the hardest-to-master feature among all but finally I can find a place in the software to squeeze Liljencrants-Fant model in. So if fellow researcher see this they will know &#8220;hey this dude who made this is one of us&#8221;.</p>
+
+
+
+<h4><strong>Dorelly: I admit I&#8217;ve yet to still fully understand how to properly use them, but I plan to have a deeper try on them and all the future updates&#8217; additions! I expect Synth V to improve a lot with time!</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: Sound quality hasn&#8217;t reached its bottleneck yet and improvement Is a continuous and on-going process. There are lots of plans on that in the future, but for now I will keep them secret.</p>
+
+
+
+<h4><strong>Dorelly: Can&#8217;t wait to hear and see more of you in the future! Thank you so much for your time with us and for answering our questions! It was very inspiring!</strong></h4>
+
+
+
+<p><strong>Kanru</strong>: You&#8217;re very welcome! Don&#8217;t forget to check and join our community! We will provide small and frequent updates based off of feedbacks in our forum.</p>
+
+
+
+<h3>Conclusions</h3>
+
+
+
+<p>Interviewing Kanru Hua was really inspiring both as a student of the same area and, of course, as a fan of vocal Synthesizers! Synthesizer V&#8217;s future looks brilliant and I can&#8217;t wait to hear more of it, so I would like to invite you on joining its community through <a href="https://forum.synthesizerv.com/">Synthesizer V&#8217;s official forum</a>! Also, <a href="https://www.anicute.com/">AniCute</a>&#8216;s website has been translated in English as well, so feel free to check it out and support Synthesizer V!</p>
+
+
+
+<p>Don&#8217;t forget to check out our previous articles about Synthesizer V, and stay tuned on VNN with us for all the news about your favorite virtual singers!</p>
+
+
+
+<p><a href="/synthesizer-v-technical-preview-available-now/">Synthesizer V Technical Preview available now!</a><br /><a href="/synthesizer-v-production-release-available-now/">Synthesizer V Production Release Available Now!</a></p>
+
+
+
+<h4>Official links</h4>
+
+
+
+<p><a href="https://synthesizerv.com/en/">Synthesizer V Official Website</a><br /><a href="https://twitter.com/khuasw">Kanru Hua Twitter</a><br /><a href="https://www.anicute.com/">AniCute Website</a></p>
+<p>The post <a rel="nofollow" href="/vnn-interview-kanru-hua-synthesizer-v/">VNN Interview with Kanru Hua for Synthesizer V!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vnn-interview-kanru-hua-synthesizer-v/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Interview with BIGHEAD on Panora</title>
+		<link>/interview-with-bighead-on-panora/</link>
+					<comments>/interview-with-bighead-on-panora/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[marumain]]></dc:creator>
+		<pubDate>Fri, 20 Apr 2018 16:22:36 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Hatsune Miku]]></category>
+		<category><![CDATA[Producer]]></category>
+		<guid isPermaLink="false">/?p=172423</guid>
+
+					<description><![CDATA[<p>miEarlier this year on Miku Day (March 9th) 2018, Kazuhito Tsukui (a.k.a. SOSOSO), a writer for Japan&#8217;s premier virtual reality media news site, Panora, had the chance to interview BIGHEAD, the VOCALOID producer known for creating many hit Hatsune Miku V3 English songs, appearing at many international events like DoKomi, and even collaborating with many Western VOCALOID &#8230;</p>
+<p>The post <a rel="nofollow" href="/interview-with-bighead-on-panora/">Interview with BIGHEAD on Panora</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>miEarlier this year on Miku Day (March 9th) 2018, <a href="http://www.sososo291.com/" target="_blank" rel="noopener">Kazuhito Tsukui</a> (a.k.a. <a href="https://vocadb.net/Ar/50" target="_blank" rel="noopener">SOSOSO</a>), a writer for Japan&#8217;s premier virtual reality media news site, <a href="http://panora.tokyo/" target="_blank" rel="noopener">Panora</a>, had the chance to interview <a href="https://vocadb.net/Ar/2733" target="_blank" rel="noopener">BIGHEAD</a>, the VOCALOID producer known for creating many hit <a href="https://vocadb.net/Ar/958" target="_blank" rel="noopener">Hatsune Miku V3 English</a> songs, appearing at many international events like <a href="/vnn-interview-with-bighead/" target="_blank" rel="noopener">DoKomi</a>, and even collaborating with many Western VOCALOID producers.</p>
+<p><a href="http://panora.tokyo/55342/" target="_blank" rel="noopener">See here for the full interview in Japanese</a>, and read on for an abridged English translation.</p>
+<p style="text-align: center">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/yVB8Q_UTh8E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><em>Today is March 9, 2018, meaning it’s Miku Day. Already we have seen the release of <a href="http://panora.tokyo/50873/" target="_blank" rel="noopener">Hatsune Miku VR</a> on <a href="http://store.steampowered.com/app/707300/Hatsune_Miku_VR___VR/" target="_blank" rel="noopener">Steam</a>, further expanding the horizons for the popular virtual singer to numerous countries around the world.</em></p>
+<p><em>And that&#8217;s only scratching the surface of all the different <a href="https://en.wikipedia.org/wiki/Extended_reality" target="_blank" rel="noopener">xR (extended reality)</a> projects that Miku has been involved in recently, both in professional- (PGC) and user-generated content (UGC). For instance, on the PGC side, there were the &#8220;<a href="http://panora.tokyo/51890/" target="_blank" rel="noopener">Miku☆Sanpo</a>&#8221; AR app from <a href="http://www.kddi.com/english/" target="_blank" rel="noopener">KDDI</a>, the Playstation VR game &#8220;<a href="http://panora.tokyo/17782/" target="_blank" rel="noopener">Hatsune Miku VR Future Live</a>&#8221; from <a href="http://www.sega.com/" target="_blank" rel="noopener">SEGA Games</a>, the 360-degree music video app &#8220;<a href="http://panora.tokyo/51949/" target="_blank" rel="noopener">VROOM</a>&#8221; from <a href="https://www.au.com/english/entertainment/" target="_blank" rel="noopener">au Uta Pass</a>, and the <a href="http://panora.tokyo/42656/" target="_blank" rel="noopener">RICOH THETA SC Type HATSUNE MIKU</a> 360-degree camera from <a href="https://www.ricoh.com/" target="_blank" rel="noopener">RICOH</a>. On the UGC side, we have seen <a href="http://panora.tokyo/44789/" target="_blank" rel="noopener">a self-made PC which Miku can dance in</a><a href="http://panora.tokyo/51949/" target="_blank" rel="noopener">, </a>the Oculus Rift compatible &#8220;<a href="http://panora.tokyo/18052/" target="_blank" rel="noopener">Mikulus</a>&#8221; from <a href="https://twitter.com/goroman" target="_blank" rel="noopener">GOROman</a>, and much, much more.</em></p>
+<p><em>The amount of xR content that involve Hatsune Miku is so innumerable that she&#8217;s no longer just a virtual singer, but arguably the poster child for all of modern technology. There are even many <a href="https://www.reddit.com/r/VirtualYoutubers/" target="_blank" rel="noopener">virtual YouTubers</a> who called Miku their &#8220;senpai.&#8221;</em></p>
+<p><em>And perhaps you have seen one name in particular that keeps showing up in all these different xR projects: the VOCALOID producer, BIGHEAD.</em></p>
+<p><em>But what&#8217;s curious is that BIGHEAD rarely uploads his works onto Niconico. Always taking different approaches from other producers in Japan, it can perhaps be said that BIGHEAD represents the next generation of VOCALOID producers.</em></p>
+<p><em>Our writer, Kazuhito Tsukui (a.k.a. SOSOSO) &#8211; who himself is an accomplished VOCAOID producer &#8211; has had the chance to interview this enigma known as BIGHEAD. In this interview on Miku Day, he delves deep into all activities carried out under the name BIGHEAD, the VOCALOID producer who&#8217;s leading the others into the future!</em></p>
+<h2><span style="color: #cc2260">Discovering Miku During the Most Unrewarding of Times</span></h2>
+<p><a href="/wp-content/uploads/2018/04/bighead1.jpg"><img loading="lazy" class="aligncenter size-full wp-image-172427" src="/wp-content/uploads/2018/04/bighead1.jpg" alt="" width="680" height="383" srcset="/wp-content/uploads/2018/04/bighead1.jpg 680w, /wp-content/uploads/2018/04/bighead1-300x169.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" /></a></p>
+<p><em><b>――First, I&#8217;d like to ask something that came up while I was looking through your personal history. It says that before you started making VOCALOID music, you worked for a music company and wrote music for TV commercials. Would you say that these were your first forays into professional music creation?</b></em></p>
+<p><em><b>BIGHEAD</b>　Well, my main job was to handle recording and arrangements for Sapporo-based bands like <a href="http://a-f-r-o.jp/" target="_blank" rel="noopener">A.F.R.O.</a>, and creating commercial music was something that I did just a bit of. </em><em>When I was with the company, A.F.R.O. was still in their indies phase, and I was still a no-name. But when they finally made it into the big leagues, that&#8217;s when the name &#8220;BIGHEAD&#8221; started to garner attention, since I was in charge of arranging the songs in their album &#8220;7th,&#8221; released in 2015.</em></p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/nfzGIWMYW4o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>▲Crossfade for A.F.R.O.&#8217;s album &#8220;7th&#8221;</p>
+<p><em><b>――Even nowadays, I see that you&#8217;ve been assisting other people in making both VOCALOID and non-VOCALOID music alike.</b></em></p>
+<p><em><b>BIGHEAD</b>　I wasn&#8217;t able to find permanent work with A.F.R.O. or anyone else in Sapporo. However, I&#8217;ve been doing what you mentioned in hopes that the name &#8220;BIGHEAD&#8221; would grow, and that I can someday find work in the same field as them.</em></p>
+<p><em><b>――I see. So you feel like you are trying to catch up to them.</b></em></p>
+<p><em><b>BIGHEAD</b>　Yes, exactly! I am really happy to have been given the chance to arrange music for them. I may have been a no-name was back when I was working for the company, but now I feel like the effort has finally been rewarded.</em></p>
+<p><em><b>――Pardon me for putting it like this, but during those &#8220;unrewarding&#8221; times, what made you consider creating VOCALOID music?</b></em></p>
+<p><em><b>BIGHEAD</b>　Before working at the company, I played the drums and handled recording for my own band. At one point, we were contacted by a Sony-affiliated company that specializes in recruiting and rearing artists. We thought it could be our big chance at making it in the big leagues, but we ultimately failed at that</em><em>.</em></p>
+<p><em>We didn&#8217;t exactly break up, but our mood was clouded over with the feeling that we would never get our big break. As a result, our vocalist eventually moved away, far enough so that we could not continue on with our band activities.</em></p>
+<p><em>Since I could only play drums and arrange music, losing our vocalist left me feeling helpless. I called myself a musician, yet I didn&#8217;t have a single piece of work created under my name. I&#8217;m seriously bad at singing, you see. (laughs)</em></p>
+<p><em><b>――Ah, I can totally relate. (laughs)</b></em></p>
+<p><em><b>BIGHEAD</b>　It was during that time that I discovered Hatsune Miku on the internet, and thought that she could serve as our vocalist.</em></p>
+<p><em><b>――So it was like, when you desperately needed a vocalist, there Miku was.</b></em></p>
+<p><em><b>BIGHEAD</b>　Yes, precisely.</em></p>
+<p>&nbsp;</p>
+<h2><span style="color: #cc2260">How BIGHEAD Almost Gave Up On Miku</span></h2>
+<p><em><b>――So then you adopted the name &#8220;ElekiP&#8221; and began your activities as a VOCALOID producer, creating a cover of a <a href="https://en.wikipedia.org/wiki/Daft_Punk" target="_blank" rel="noopener">Daft Punk</a> song. It didn&#8217;t occur to me that this was an extension of your band activities. Is there anything more to the story that I&#8217;m not aware of?</b></em></p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/A2VpR8HahKc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>▲Official audio for Daft Punk&#8217;s &#8220;One more time&#8221;</p>
+<p><em><b>BIGHEAD</b>　Well, our band was mainly an electronic music band. We&#8217;d use <a href="https://en.wikipedia.org/wiki/Multitrack_recording" target="_blank" rel="noopener">MTR</a> and 2MIX to create synth music, I would play on drums, and we&#8217;d need a vocalist to sing&#8230; and probably other things that I don&#8217;t really understand myself. (laughs)</em></p>
+<p><em><b>――That&#8217;s pretty interesting to hear!</b></em></p>
+<p><em><b>BIGHEAD</b>　Yea. (laughs) We were kind of an obscure band that was trying to be like <a href="https://en.wikipedia.org/wiki/M-Flo" target="_blank" rel="noopener">m-flo</a>, and made quite a lot of electronic music. Much of our music was created with synths.</em></p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/RNBiaZbFGII?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>▲Official music video for m-flo&#8217;s &#8220;come again&#8221;</p>
+<p><em><b>――So it must have been especially rough for a band like yours to lose its vocalist.</b></em></p>
+<p><em><b>BIGHEAD</b>　It sure was. Despite all my best efforts, there was nothing that I could do, and I lost a lot of motivation. Plus, searching for a new member would require a lot of energy that we didn&#8217;t have, so our band just broke up after that.</em></p>
+<p><em><b>――So then you utilized your skills in making electronic music, brought in Hatsune Miku to provide vocals, and re-introduced your music to the world. Was that how ElekiP came to be?</b></em></p>
+<p><em><b>BIGHEAD</b>　I suppose so. However, even before making the Daft Punk cover, I was using Miku to make covers of Japanese songs that were originally sung by humans.</em></p>
+<p><em><b>――Really?</b></em></p>
+<p><em><b>BIGHEAD</b>　Yup. I&#8217;ve never officially released them, but they were made during a time when I was trying to get Miku to sound as human as possible. I&#8217;d make one song per week, editing the vocals all the while. They came out pretty well, but there was something about them that rubbed me the wrong way.</em></p>
+<p><em><b>――I think I can understand how you feel. (laughs)</b></em></p>
+<p><em><b>BIGHEAD</b>　I&#8217;m sure you can. (laughs) I couldn&#8217;t put my finger one it, but there was something that didn&#8217;t fit, something that I actually hated hearing. I even almost gave up on editing Miku completely.</em></p>
+<p><em><b>――It sure is tough trying to edit a VOCALOID to sound human.</b></em></p>
+<p><em><b>BIGHEAD</b>　At one point, I even thought that there must have been an error or glitch in the program. (laughs) </em><em>The more I fiddled around with it, the worse her voice sounded, making me want to cringe. So I finally decided to give up on that direction, give up on trying to make Miku sound human while singing Japanese songs.</em></p>
+<p><em><b>――Is that why you focus your efforts on techno music and other genres which you can utilize your music editing skills in?</b></em></p>
+<p><em><b>BIGHEAD</b>　That was my feeling at the time, yes. I&#8217;m quite partial to <a href="https://en.wikipedia.org/wiki/Vocoder" target="_blank" rel="noopener">vocoders</a> and synths.</em></p>
+<p><em><b>――When you first used Hatsune Miku as the vocals for electronic music, did you ever imagine that it would grow and spread as far and wide as it has now?</b></em></p>
+<p><em><b>BIGHEAD</b>　Not at all! (laughs) When I first released &#8220;<a href="https://vocadb.net/S/32009" target="_blank" rel="noopener">Story Rider</a>&#8221; in 2013, I had no idea that it would get this ridiculously big! (laughs)</em></p>
+<p>&nbsp;</p>
+<h2><span style="color: #cc2260">The &#8220;Spam&#8221; Mail That Would Change BIGHEAD&#8217;s Life</span></h2>
+<p><em><b>――Upon releasing &#8220;Story Rider&#8221; and the Daft Punk cover, you were then contacted by <a href="https://vocadb.net/Ar/25" target="_blank" rel="noopener">Crypton Future Media</a> who told you out of the blue <a href="http://blog.piapro.net/2013/10/2013-23.html" target="_blank" rel="noopener">that they would like to feature your song in New York</a>, right?</b></em></p>
+<p><em><b>BIGHEAD</b>　That&#8217;s right.</em></p>
+<p><em><b>――How did you feel when you heard that Crypton Future Media would like to bring your creations with them to New York?</b></em></p>
+<p><em><b>BIGHEAD</b>　Hmm&#8230; the message that they relayed to me was &#8220;[Mr. Hiroyuki Itoh] will be hosting a panel [at the <a href="http://www.newyorkcomiccon.com/" target="_blank" rel="noopener">New York Comic Con</a>], and would like to use your song.&#8221; When I read those words, no particular thoughts or feelings came to mind, except maybe &#8220;What&#8217;s a panel?&#8221;</em></p>
+<p><em><b>――Is that so? (laughs)</b></em></p>
+<p><em><b>BIGHEAD</b>　I lacked even that much knowledge, so I just thought &#8220;So my songs will be playing in New York, huh.&#8221; I mean, the message wasn&#8217;t marked as spam, so </em><em>I was wondering if this really came from Crypton. (laughs).</em></p>
+<p><em><b>――It does seem very sudden and suspicious-sounding! (laughs)</b></em></p>
+<p><em><b>BIGHEAD</b>　Sure was. (laughs) And since this was no small request, I imagined that Crypton was pretty desperate, too. At first, our only means of communication was through Facebook Messenger since they didn&#8217;t have my email address. So when the message came through Messenger, I just nonchalantly thought &#8220;Yeah, I suppose it&#8217;d be nice if they use my song&#8230;&#8221;</em></p>
+<p><em><b>――That&#8217;s quite the development that would eventually lead to your later endeavors under the name &#8220;BIGHEAD.&#8221;</b></em></p>
+<p><em><b>BIGHEAD</b>　If you had asked me, I would have thought that this would only be a one-time thing, and didn&#8217;t think much of it. But then &#8220;Story Rider&#8221; was later used in an opening act to <a href="https://en.wikipedia.org/wiki/ArtRave:_The_Artpop_Ball" target="_blank" rel="noopener">Lady Gaga&#8217;s North American tour</a>, and &#8220;<a href="https://vocadb.net/S/66126" target="_blank" rel="noopener">Sharing The World</a>&#8221; was aired on <a href="https://en.wikipedia.org/wiki/Late_Show_with_David_Letterman" target="_blank" rel="noopener">a CBS program</a> to all households in America. So looking back on it now, the New York Comic Con event was a very important beginning for me.</em></p>
+<p><em><b>――You have done a lot of collaborative projects with Crypton, so much so that I personally see you as something of an official employee of Crypton.</b></em></p>
+<p><em><b>BIGHEAD</b>　It was quite an honor to see so many of my songs used at the <a href="http://magicalmirai.com/2017/index_en.html" target="_blank" rel="noopener">Magical Mirai</a> and <a href="/hatsune-miku-10th-anniversary-ppp-party-in-aeon-commences/" target="_blank" rel="noopener">PPP-Party in Aeon</a> events last year, and at the <a href="https://snowmiku.com/2018/info_snowmiku_en.html" target="_blank" rel="noopener">Snow Miku</a> event this year!</em></p>
+<p><iframe loading="lazy" width="618" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F391770372&#038;show_artwork=true&#038;maxwidth=618&#038;maxheight=927&#038;dnt=1"></iframe></p>
+<p>▲SNOW MIKU 2018 Official Theme Song &#8220;<a href="https://vocadb.net/S/178433" target="_blank" rel="noopener">四角い地球を丸くする (Shikakui Chikyuu wo Maruku Suru)</a>&#8221; BIGHEAD REMIX</p>
+<p><em><b>――I guess I should have known that you would feel that way.</b></em></p>
+<p><em><b>BIGHEAD</b>　I think you misunderstand me. If I could, I&#8217;d take back what I said. (laughs)</em></p>
+<p><em><b>――You mean you don&#8217;t like being thought of as an &#8220;official employee&#8221; of Crypton?</b></em></p>
+<p><em><b>BIGHEAD</b>　I wouldn&#8217;t like it if people thought &#8220;I can make better songs than him, so why did <strong>he</strong> get picked?&#8221; After all, when I started using Miku, I also thought that all those producers who were picked to do official work with Crypton must have needed connections or luck to get where they are. I myself have been jealous of famous VOCALOID producers before.</em></p>
+<p><em><b>――Ah, yes, I&#8217;ve also been misunderstood that way before. (wry smile)</b></em></p>
+<p><em><b>BIGHEAD</b>　Getting official requests from Crypton makes me really happy, and I leap for joy every time it happens. However, in reality, I&#8217;m always nervous wondering &#8220;But if all these requests stop coming, then what do I do?&#8221; That&#8217;s why I wouldn&#8217;t like being misunderstood as officially being part of Crypton.</em></p>
+<p>&nbsp;</p>
+<h2><span style="color: #cc2260">How World Travel Helped Expand BIGHEAD&#8217;s Horizons</span></h2>
+<p><em><b>――You&#8217;ve certainly earned many opportunities to create and share music from Sapporo to the rest of the world. But how did you react to those kinds of opportunities?</b></em></p>
+<p><em><b>BIGHEAD</b>　Well, thanks to Crypton being around, I feel that even if I stayed in one place, I could still be connected to the rest of the world through them. Of course, if Miku didn&#8217;t exist, then I would have had a much harder time forming such connections.</em></p>
+<p><em>But in Japan, it&#8217;s the recording companies who converge in Tokyo that put out top-notch music, and I feel like I could never produce the same results or stand on the same stage with them by my own abilities. I&#8217;d first have to level myself up, and leave my mark in the world. Of course, I&#8217;d have to abide by copyright and distribution laws.</em></p>
+<p><em><b>――Last year, you indeed accomplished all sorts of activities without being limited to staying in Japan.</b></em></p>
+<p><a href="/wp-content/uploads/2018/04/bighead2.jpg"><img loading="lazy" class="aligncenter size-full wp-image-172771" src="/wp-content/uploads/2018/04/bighead2.jpg" alt="" width="680" height="383" srcset="/wp-content/uploads/2018/04/bighead2.jpg 680w, /wp-content/uploads/2018/04/bighead2-300x169.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" /></a><br />
+▲BIGHEAD at Germany&#8217;s largest anime convention, <a href="https://www.dokomi.de/en" target="_blank" rel="noopener">DoKomi</a></p>
+<p><em><b>BIGHEAD</b>　Last year, I went to DJ in both Germany and America, and was sure surprised by all that I saw. Seriously, it was all thanks to Miku.</em></p>
+<p><em>Something else that I&#8217;ve come to learn is that if you release a song on iTunes or Spotify, it can easily reach 700,000 listens in America alone; it&#8217;d be really hard to reach that many listens just in Japan. </em></p>
+<p><em>The fact that one can just release a song to the world and watch it reach a super high number of listens, even without paying a fortune for advertising, is very appealing to me. That&#8217;s why I decided to write songs that feature foreign singers, adhering to songs formats that work abroad, and release them to a worldwide audience.</em></p>
+<p><em><b>――By &#8220;worldwide audience,&#8221; that includes listeners in Japan as well, right?</b></em></p>
+<p><em><b>BIGHEAD</b>　Of course. I still like Japan the most, and my chief goal is to get everyone in the world more aware of music from Japan.</em></p>
+<h2><span style="color: #cc2260">The &#8220;Experiment&#8221; That Bewilders CD Manufacturers</span></h2>
+<p><em><b>――I&#8217;d like to asked about your third album, &#8220;<a href="https://vocadb.net/Al/24240" target="_blank" rel="noopener">World Is Wide</a>,&#8221; released just last month. I was dumbfounded when I learned that in one album purchase, you don&#8217;t get 2 CDs with different songs, but rather 2 completely identical CDs with the exact same content! (laughs)</b></em></p>
+<p><a href="/wp-content/uploads/2018/04/bighead3.jpg"><img loading="lazy" class="aligncenter size-full wp-image-172787" src="/wp-content/uploads/2018/04/bighead3.jpg" alt="" width="680" height="383" srcset="/wp-content/uploads/2018/04/bighead3.jpg 680w, /wp-content/uploads/2018/04/bighead3-300x169.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" /></a></p>
+<p>▲BIGHEAD&#8217;s 3rd album &#8220;World Is Wide&#8221; containing 2 CDs</p>
+<p><em><b>BIGHEAD</b>　Ahahaha! That was my doing as well! (laughs)</em></p>
+<p><em><b>――It even includes instructions for something called &#8220;SHARING THE MUSIC&#8221; in which you ask buyers to give one of the CDs to someone. That&#8217;s not normal! (laughs)</b></em></p>
+<p><em><b>BIGHEAD</b>　Yeaaah&#8230; that is kind of weird, isn&#8217;t it? (laughs)</em></p>
+<p><em><b>――I&#8217;ll say! (laughs) So then, how did you arrive at the idea of a &#8220;sharing CD?&#8221; This is actually what I&#8217;ve wanted to ask the most in this interview.</b></em></p>
+<p><figure id="attachment_172799" aria-describedby="caption-attachment-172799" style="width: 680px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2018/04/bighead4.jpg"><img loading="lazy" class="wp-image-172799 size-full" src="/wp-content/uploads/2018/04/bighead4.jpg" alt="" width="680" height="383" srcset="/wp-content/uploads/2018/04/bighead4.jpg 680w, /wp-content/uploads/2018/04/bighead4-300x169.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" /></a><figcaption id="caption-attachment-172799" class="wp-caption-text">1) Take a picture of yourself with the person whom you&#8217;re giving the CD to; OR if you&#8217;re the shy type, you can take a picture of only your hands exchanging the CD.<br />  <br /> 2) Either email the picture to bigheadofficial.gmail.com, or DM it to @bighead11111 on Twitter, and you will be sent a link to where you can download 10 of BIGHEAD&#8217;s Japanese language songs for free!</figcaption></figure></p>
+<p>▲Instructions for the &#8220;Sharing CD&#8221;</p>
+<p><em><b>BIGHEAD</b>　We now live in a digital age where services like Spotify enable people to listen to whatever they want, whenever they want, and practically for free. Furthermore, a person can easily send a song link from YouTube to a friend saying &#8220;Isn&#8217;t this song awesome?&#8221; and that friend will be able to open the link and listen for free. With all that in mind, a CD release seems kind of &#8220;worthless,&#8221; doesn&#8217;t it?</em></p>
+<p><em>Perhaps they can find some small value in the sight of the jacket visual, or the feel of the paper pamphlet in their hands. For people who have bought my album for those reasons, I figure why not give them another one as thanks? (laughs)</em></p>
+<p><em><b>――That&#8217;s a really bold idea!</b></em></p>
+<p><em><b>BIGHEAD</b>　I have limited ability when it comes to distributing my music, so I thought it&#8217;d be great to have buyers introduce it for me to people whom they are close to. Of course, it also makes CD manufacturers wonder &#8220;Was there some mistake? There are 2 of the exact same thing in here&#8230;&#8221; (laughs)</em></p>
+<p><em><b>――So that means even manufacturers were bewildered. (laughs)</b></em></p>
+<p><em><b>BIGHEAD</b>　Back in the 90&#8217;s, I remember lending CDs to my friends, and giving cassette tapes and MDs to them as gifts. But now that we&#8217;re in the digital age, those kind of experiences are probably long gone.</em></p>
+<p><em>Therefore, I thought how nice it would be if people could actually meet in person, and the receiver could listen to music that they were given by someone whom they&#8217;re close to, over and over again. That would mean that my music becomes part of their relationship and memories.</em></p>
+<p><em><b>――So through your music, their circle of communication would expand.</b></em></p>
+<p><em><b>BIGHEAD</b>　Indeed. Even if I could play just one small part in that communication circle, I would be honored. I think that not only will the listeners of my music have their world expanded, but so too will my own world expand when they purchase and listen to my CDs. And when those listeners give the sharing CD to their friends, their world would expand was well, and so on and so forth. Thus, the &#8220;World Is Wide!&#8221;</em></p>
+<p><em><b>――And the experiment results have proven to be a success, haven&#8217;t they?</b></em></p>
+<p><em><b>BIGHEAD</b>　I guess it has been pretty successful. I&#8217;m surprised by how much it has spread.</em></p>
+<p><em>I asked some my friends, &#8220;I&#8217;d like to give this a try. Do you find it an interesting idea? But do you think it&#8217;ll be hard for people to get?&#8221; Responses that I got went, &#8220;I think it&#8217;d be a good thing to do, but the revenue that you earn will naturally be cut in half, wouldn&#8217;t it?&#8221; (laughs) But since the concept is to expand people&#8217;s worlds, I told them that this is something that I just had to do. (laughs)</em></p>
+<p><em>Since I don&#8217;t work for a major recording label, this is something that I was able to decide for myself. This is one of the beauties of VOCALOID itself, letting creators make almost anything that they want. Even if I don&#8217;t know how this &#8220;experiment&#8221; will turn out, the will to carry it out forms the very nucleus of this project; losing that would be terribly tragic, which is why I knew that I had to go through with it.</em></p>
+<p><em>I&#8217;d like to pursue this ambition with a sense of haste to it, telling myself &#8220;if I fail, I quit; if I succeed, I continue on,&#8221; an option that I wouldn&#8217;t have if I worked for a major recording label.</em></p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/Nqz0C3aO7GA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>▲Crossfade for &#8220;World Is Wide&#8221;</p>
+<h2><span style="color: #cc2260">Making Content To Be Viewed In 360-Degrees!</span></h2>
+<p><b>――Finally, please share with us what your future plans are from here on out.</b></p>
+<p><em><b>BIGHEAD</b>　I guess my first &#8220;dream&#8221; is to see the album &#8220;World Is Wide&#8221; reach and be heard by people all over the world, and help everyone in the entire world to expand their horizons. Yes, I&#8217;m dreaming big.</em></p>
+<p><em>Another one of my &#8220;dreams&#8221; would be to see a crystal bust of Miku [as she appears on the &#8220;World Is Wide&#8221; jacket illustration by <a href="https://vocadb.net/Ar/46198" target="_blank" rel="noopener">apapico</a>] collected and displayed at the <a href="https://www.moma.org/" target="_blank" rel="noopener">MoMA</a> and other museums in the world.</em></p>
+<p><em>That way, we would get to leave her mark on the world as a piece of art. If a museum collection proves to be impossible, then hopefully she can be displayed someplace else as a piece of uniquely Japanese art, which I would like to try making a reality first. Whether it&#8217;s by 3D printer or as a glass carving, I want to this idea to be physically manifested in one way or another.</em></p>
+<p><em>This scale of this project means that it will probably require some crowdfunding, but I first wish to put this plan into action.</em></p>
+<p><a href="/wp-content/uploads/2018/04/bighead5.jpg"><img loading="lazy" class="aligncenter size-full wp-image-172872" src="/wp-content/uploads/2018/04/bighead5.jpg" alt="" width="680" height="925" srcset="/wp-content/uploads/2018/04/bighead5.jpg 680w, /wp-content/uploads/2018/04/bighead5-221x300.jpg 221w" sizes="(max-width: 680px) 100vw, 680px" /></a><br />
+▲Jacket illustration for &#8220;World Is Wide&#8221;</p>
+<p><em><b>――You sure know how to tell an ambitious story with such a calm and cool composure (laughs)</b></em></p>
+<p><em><b>BIGHEAD</b>　I guess you&#8217;re right about that. (laughs) Next is a third &#8220;dream&#8221; of mine. Although I call it a &#8220;dream,&#8221; it&#8217;s actually something that I&#8217;ve already made some headway in.</em></p>
+<p><em>I&#8217;m already in the process of constructing a system that&#8217;s capable of producing VR-compatible sounds. Progress on that is proceeding very smoothly. I&#8217;m making this because I&#8217;d like to be able to create and release PVs for songs on my own. When I think about the future, I think of 360-degree videos and sound.</em></p>
+<p><em>I once released such a video whose sound would change depending on whom you&#8217;re watching; for instance, when you focus the camera on the guitar-player, the guitar track gets louder. I would like to make a new 360-degree, sound-changing video next.</em></p>
+<p><iframe loading="lazy" width="618" height="464" src="https://www.youtube.com/embed/KsgHpe-PPWs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>▲anckor feat.Hatsune Miku [360 Music Video ] 3D Surround Sound Mix</p>
+<p><b>――I look forward to all the activities that you&#8217;ll be partaking in! Thank you so much for today!</b></p>
+<p><em><b>BIGHEAD</b>　Thank you very much!</em></p>
+<h2>Purchase &#8220;World Is Wide&#8221; feat. Hatsune Miku</h2>
+<p><strong><a href="https://www.amazon.com/World-Wide-feat-Hatsune-Miku-BIGHEAD/dp/B079ND4BD7/ref=sr_1_2?ie=UTF8&amp;qid=1524107013&amp;sr=8-2&amp;keywords=bighead+miku" target="_blank" rel="noopener">Amazon</a></strong></p>
+<p><a href="https://itunes.apple.com/album/world-is-wide-feat-hatsune-miku/1340034953" target="_blank" rel="noopener"><strong>iTunes Store</strong></a></p>
+<p><strong><a href="http://www.cdjapan.co.jp/aff/click.cgi/PytJTGW7Lok/5636/A800688/product%2FFSSL-18?s_ssid=e31c8a5ad80a6c9337" target="_blank" rel="noopener">CD Japan</a></strong></p>
+<p><a href="https://otakumode.com/shop/5a781467e152484152230daa/World-Is-Wide-feat-Hatsune-Miku?sort=new&amp;utm_campaign=affiliate_587ebd038fe9b9cc2db5af90&amp;utm_medium=affiliate&amp;utm_source=ad" target="_blank" rel="noopener"><strong>Tokyo Otaku Mode</strong></a></p>
+<p><strong><a href="https://bighead.lnk.to/prIIGPR" target="_blank" rel="noopener">Spotify and more</a></strong></p>
+<p><b>●Related Links</b><br />
+・<a href="https://www.bigheadp.com/" target="_blank" rel="noopener">BIGHEAD&#8217;s Official Site</a><br />
+・<a href="https://twitter.com/bighead11111" target="_blank" rel="noopener">BIGHEAD&#8217;s Twitter</a></p>
+<p><strong>●About the Author</strong><br />
+Kazuhito Tsukui, a.k.a. SOSOSO (そそそ)<br />
+Musician, arranger, VOCALOID producer, and writer. Made his debut as a VOCALOID producer in 2007, making him one of the eldest producers around. Alongside making music, he also began working as a writer for video game news in 2011, and began working at Panora in April, 2016. He is also in charge of the music for our gameplay reports, &#8220;<a href="http://panora.tokyo/47850/" target="_blank" rel="noopener">Daibu VR</a>&#8221; and &#8220;<a href="http://panora.tokyo/vtuber-music/" target="_blank" rel="noopener">PANORA VTuber Music</a>.&#8221;<br />
+・Twitter: <a href="https://twitter.com/sososo291" target="_blank" rel="noopener">@sososo291</a><br />
+・Blog: <a href="http://www.sososo291.com/" target="_blank" rel="noopener">sososo activity</a></p>
+<p>●<strong>Latest Virtual YouTuber (VTuber) News</strong><br />
+<a href="http://panora.tokyo/vtuber/" target="_blank" rel="noopener">http://panora.tokyo/vtuber/</a></p>
+<p><b>●</b><strong>Panora Homepage</strong><br />
+<a href="http://panora.tokyo/" target="_blank" rel="noopener">http://panora.tokyo/</a></p>
+<p>The post <a rel="nofollow" href="/interview-with-bighead-on-panora/">Interview with BIGHEAD on Panora</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/interview-with-bighead-on-panora/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Review of the Hatsune Miku Documentary &#8220;THE WORLD IS MINE&#8221; in Frankfurt, Germany!</title>
+		<link>/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/</link>
+					<comments>/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Espeona]]></dc:creator>
+		<pubDate>Wed, 20 Dec 2017 23:25:27 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Documentary]]></category>
+		<category><![CDATA[Exhibitions]]></category>
+		<category><![CDATA[Hatsune Miku]]></category>
+		<guid isPermaLink="false">/?p=154789</guid>
+
+					<description><![CDATA[<p>As a part of the &#8220;B3 Biennial of the Moving Image&#8220;, they featured a Hatsune Miku documentary called &#8220;THE WORLD IS MINE&#8221; by the film producer Ann Oren. The documentary is about Hatsune Miku and her fans and was shown in the &#8220;Cinema&#8221; at Frankfurt am Main on November 30th, 2017. I couldn&#8217;t let this opportunity &#8230;</p>
+<p>The post <a rel="nofollow" href="/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/">Review of the Hatsune Miku Documentary &#8220;THE WORLD IS MINE&#8221; in Frankfurt, Germany!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>As a part of the &#8220;<a href="http://www.b3biennale.de/index_en.html"><span class="fad-size-80">B3 Biennial of the Moving Image</span></a>&#8220;, they featured a <a href="http://vocadb.net/Ar/1">Hatsune Miku</a> documentary called <a href="http://www.b3biennale.de/Kopie-von-The-World-is-Mine-2017-OmeU-japanese.html">&#8220;THE WORLD IS MINE&#8221;</a> by the film producer <a href="https://www.annoren.com/">Ann Oren.</a></p>
+<p>The documentary is about <a href="http://vocadb.net/Ar/1">Hatsune Miku</a> and her fans and was shown in the &#8220;<a href="http://www.b3biennale.de/Cinema.html">Cinema</a>&#8221; at Frankfurt am Main on November 30th, 2017.</p>
+<p>I couldn&#8217;t let this opportunity slip, since this screening happened in the presence of the directress! Arriving in Frankfurt am Main by train, I had some trouble finding the small yet classy cinema but, luckily, I made it in time. I even had some time to get a drink as a refreshment.</p>
+<p><img loading="lazy" class="aligncenter wp-image-153433 size-large" src="/wp-content/uploads/2017/12/IMG-20171130-WA0025-576x1024.jpg" alt="" width="576" height="1024" srcset="/wp-content/uploads/2017/12/IMG-20171130-WA0025-576x1024.jpg 576w, /wp-content/uploads/2017/12/IMG-20171130-WA0025-169x300.jpg 169w, /wp-content/uploads/2017/12/IMG-20171130-WA0025.jpg 720w" sizes="(max-width: 576px) 100vw, 576px" /></p>
+<p>I was very excited when the show finally started. During the screening, I was able to take a few shots, which hopefully give you an impression of the documentary.</p>
+<p>
+<a href='/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/img-20171130-wa0022-2/'><img width="169" height="300" src="/wp-content/uploads/2017/12/IMG-20171130-WA0022-169x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2017/12/IMG-20171130-WA0022-169x300.jpg 169w, /wp-content/uploads/2017/12/IMG-20171130-WA0022-576x1024.jpg 576w, /wp-content/uploads/2017/12/IMG-20171130-WA0022.jpg 720w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+<a href='/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/img-20171130-wa0024-2/'><img width="169" height="300" src="/wp-content/uploads/2017/12/IMG-20171130-WA0024-169x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2017/12/IMG-20171130-WA0024-169x300.jpg 169w, /wp-content/uploads/2017/12/IMG-20171130-WA0024-576x1024.jpg 576w, /wp-content/uploads/2017/12/IMG-20171130-WA0024.jpg 720w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+<a href='/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/img-20171130-wa0021-2/'><img width="169" height="300" src="/wp-content/uploads/2017/12/IMG-20171130-WA0021-169x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2017/12/IMG-20171130-WA0021-169x300.jpg 169w, /wp-content/uploads/2017/12/IMG-20171130-WA0021-576x1024.jpg 576w, /wp-content/uploads/2017/12/IMG-20171130-WA0021.jpg 720w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+<a href='/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/img-20171130-wa0007-2/'><img width="169" height="300" src="/wp-content/uploads/2017/12/IMG-20171130-WA0007-169x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2017/12/IMG-20171130-WA0007-169x300.jpg 169w, /wp-content/uploads/2017/12/IMG-20171130-WA0007-576x1024.jpg 576w, /wp-content/uploads/2017/12/IMG-20171130-WA0007.jpg 720w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+<a href='/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/img-20171130-wa0019-2/'><img width="169" height="300" src="/wp-content/uploads/2017/12/IMG-20171130-WA0019-169x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2017/12/IMG-20171130-WA0019-169x300.jpg 169w, /wp-content/uploads/2017/12/IMG-20171130-WA0019-576x1024.jpg 576w, /wp-content/uploads/2017/12/IMG-20171130-WA0019.jpg 720w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+<a href='/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/img-20171130-wa0023-2/'><img width="169" height="300" src="/wp-content/uploads/2017/12/IMG-20171130-WA0023-169x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2017/12/IMG-20171130-WA0023-169x300.jpg 169w, /wp-content/uploads/2017/12/IMG-20171130-WA0023-576x1024.jpg 576w, /wp-content/uploads/2017/12/IMG-20171130-WA0023.jpg 720w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+</p>
+<p>The producer, Ann Oren, who dons a Miku cosplay herself to portray the movie&#8217;s main character, guides the viewer in a suggestively creative way through a seemingly happenstance, tangled succession of experiences in Tokyo&#8217;s otaku subculture. The movie seemed more and more like a dream made of pictures and scenes in which reality and fantasy became hard to tell apart. This was supported by quotes and excerpts of lyrics from songs featuring Miku, such as the &#8220;<a href="http://vocadb.net/S/2925">Disappearance of Hatsune Miku -DEAD END-</a>&#8220;.</p>
+<p>Ann Oren attended concerts of the virtual pop diva and came to know many other Miku fans, who could not be any more different. The movie took the spectator on a journey to many different places in Tokyo and to many interesting people, who were united by one thing: their passion for Hatsune Miku, be it cosplayer, music producer, hobby concert organiser, employee of a cosplay workshop etc. Oren was able to convey the impressions and air of euphoria and curiosity slowly turning into solitude and lovesickness. To me, the documentary was very touching and authentic.</p>
+<p>Should the pictures above not do it for you, you can watch <a href="https://vimeo.com/145136545">this trailer</a> for the documentary on Vimeo.</p>
+<p>After the documentary, there was a Q&amp;A session with the producer, Ann Oren.</p>
+<p><img loading="lazy" class="aligncenter wp-image-153521 size-large" src="/wp-content/uploads/2017/12/IMG-20171130-WA0020-1024x576.jpg" alt="" width="618" height="348" srcset="/wp-content/uploads/2017/12/IMG-20171130-WA0020-1024x576.jpg 1024w, /wp-content/uploads/2017/12/IMG-20171130-WA0020-300x169.jpg 300w, /wp-content/uploads/2017/12/IMG-20171130-WA0020.jpg 1280w" sizes="(max-width: 618px) 100vw, 618px" /></p>
+<p>After this, I was able to have a brief private interview, which was conducted in English.</p>
+<p><img loading="lazy" class="wp-image-153533 size-large aligncenter" src="/wp-content/uploads/2017/12/IMG-20171130-WA0012-576x1024.jpg" alt="" width="576" height="1024" srcset="/wp-content/uploads/2017/12/IMG-20171130-WA0012-576x1024.jpg 576w, /wp-content/uploads/2017/12/IMG-20171130-WA0012-169x300.jpg 169w, /wp-content/uploads/2017/12/IMG-20171130-WA0012.jpg 720w" sizes="(max-width: 576px) 100vw, 576px" /></p>
+<p>During this interview, I was able to find out that the directress went to Japan three times, for two weeks at a time, for the documentary. Originating from Israel, the producer is currently alternating between living in the US and Berlin. Also, she told me that she had to distance herself more and more from the Japanese community during the course of her stay, as one loses themselves in the collective fantasies surrounding Miku and cosplayers are only seen as an incarnation of the VOCALOID, rather than an individual or real human. As such, a relationship between the protagonist and a Japanese Miku fan failed due to him only being able to see her as an incarnation of Hatsune Miku and not being interested in her otherwise.</p>
+<p>According to Oren, the cult surrounding the cyber diva, Miku, is blooming in almost bizarre blossoms in the Japanese community. Amongst other things, it is decried as heresy to depict Miku in even just a minor case of sexually suggestive manner. The eternally 17-year-old is seen as asexual. Furthermore, there are strict rules about the sale of outfits to Miku cosplayers &#8211; should one look for alternative clothes for a Miku cosplay, one is denied purchase of a cosplay that is not a Miku design. Miku is seen almost as a saint, an untouchable idol.</p>
+<p>To me, it was an interesting documentary and a great experience so I would recommend it!</p>
+<h3>More Information</h3>
+<p>If you are interested in attending a future screening of the documentary, the following screenings have been announced for 2018.</p>
+<ul>
+<li>Big Muddy Film Festival, Southern Illinois &#8211; February, 2018.</li>
+<li>Millennium Docs Against Gravity Film Festival, Poland &#8211; May, 2018.</li>
+</ul>
+<p>For more information on the Hatsune Miku documentary, &#8220;THE WORLD IS MINE&#8221; and the directress, Ann Oren, check out the website below.</p>
+<p><a href="https://www.annoren.com/the-world-is-mine">Ann Oren&#8217;s website</a></p>
+<p>The post <a rel="nofollow" href="/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/">Review of the Hatsune Miku Documentary &#8220;THE WORLD IS MINE&#8221; in Frankfurt, Germany!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hatsune-miku-documentary-the-world-is-mine-in-frankfurt-germany/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Interview with Murayama From 1st PLACE &#038; Ddickky From Quadimension</title>
+		<link>/interview-with-murayama-from-1st-place-ddickky-from-quadimension/</link>
+					<comments>/interview-with-murayama-from-1st-place-ddickky-from-quadimension/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Cicada]]></dc:creator>
+		<pubDate>Thu, 14 Dec 2017 14:48:25 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[1st Place]]></category>
+		<category><![CDATA[Quadimension]]></category>
+		<guid isPermaLink="false">/?p=146415</guid>
+
+					<description><![CDATA[<p>Note: This interview was originally conducted in Chinese and Japanese, and some of the translations may be slightly off. We tried our best to retain as much of the original content from the interviews as possible while also making it easier to read. Our beloved VOCALOID singers, IA and Stardust, both performed at BILIBILI MACRO &#8230;</p>
+<p>The post <a rel="nofollow" href="/interview-with-murayama-from-1st-place-ddickky-from-quadimension/">Interview with Murayama From 1st PLACE &#038; Ddickky From Quadimension</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;"><span style="color: #ff0000;"><em>Note: This interview was originally conducted in Chinese and Japanese, and some of the translations may be slightly off. We tried our best to retain as much of the original content from the interviews as possible while also making it easier to read.</em></span></span></p>
+<p>Our beloved VOCALOID singers, <a href="http://vocadb.net/Ar/504" target="_blank" rel="noopener">IA</a> and <a href="http://vocadb.net/Ar/35966" target="_blank" rel="noopener">Stardust</a>, both performed at <a href="/ia-vsinger-stardust-yan-xi-and-miss-monochrome-at-bilibili-macro-link/" target="_blank" rel="noopener">BILIBILI MACRO LINK – VISUAL RELEASE 2017</a> (hereafter &#8220;BML VR&#8221;) at the <a href="https://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Shanghai)" target="_blank" rel="noopener">Mercedes-Benz Arena in Shanghai</a> on July 21<sup>st</sup> of this year! The VNN Chinese team had the chance to interview both the president of <a href="http://vocadb.net/Ar/2347" target="_blank" rel="noopener">1st Place</a>, Kumiko Murayama, and the CEO of Beijing Photek (a.k.a. <a href="http://vocadb.net/Ar/48697" target="_blank" rel="noopener">Quadimension</a>), <a href="http://vocadb.net/Ar/16527" target="_blank" rel="noopener">Ddickky</a>. We talk with them about their own respective virtual idols, and the patterns of both professional- and user-generated content. VNN has previously brought you <a href="/interview-between-ia-stardust-about-bml-vr-and-the-future/" target="_blank" rel="noopener">interviews with IA and Stardust</a>, as well as <a href="/vnn-interview-with-1st-places-ceo-murayama-kumiko/" target="_blank" rel="noopener">with Murayama</a> and <a href="/interview-with-ddickky-edr-the-people-behind-stardust/" target="_blank" rel="noopener">with Ddickky</a> individually, all of which you can also check out before reading on with this one!</p>
+<h2><strong>VNN: How did you feel about the BML VR live concert?</strong></h2>
+<p><strong>Murayama: </strong>I am greatly honored to have been invited to such a great concert in this wonderful arena. Last year, <a href="http://vocadb.net/Ar/655" target="_blank" rel="noopener">Lia</a>, the voice provider of IA, was invited to perform at BML. Ever since then, I was thinking how wonderful it would be if IA could also perform like this at the Mercedes-Benz Arena. I’m so happy that it took just one year for that thought to come to realization. I also didn’t know that there are so many virtual idols in China, and am pleasantly surprised to see them all.</p>
+<p><strong>Ddickky: </strong>I feel that tonight&#8217;s performance sadly did not live up to the expectations of Stardust fans. They came from far and wide, but only got to hear her perform <em>one</em> song, which wasn&#8217;t nearly enough to leave them feeling satisfied. We originally planned to perform two or three songs, but went with just &#8220;<a href="http://vocadb.net/S/117277" target="_blank" rel="noopener">星之伊始 (The Start of the Star)</a>&#8221; in the end due to lack of time and quality assurance. But even then, I feel that we fell far short of perfection. Considering how this would be Stardust&#8217;s first time performing on stage, we picked this song for the significance that its title and lyrics carry. However, its tempo is slow and unsuitable for a live concert.</p>
+<p>All things considered, we made quite a few regretful decisions for her first performance, but we will work harder to provide our fans a better experience when we hold the <a href="/stardust-concert-date-announced/" target="_blank" rel="noopener">Stardust Live Concert</a> at the end of this year.</p>
+<p>&nbsp;</p>
+<h2><strong>VNN: What do each of your respective virtual idols mean to you?</strong></h2>
+<p><strong>Murayama:</strong> 1st Place is a music production company with various musicians and creators associated with our label. IA is a very important member of our company, just like any other artist except that she&#8217;s virtual.</p>
+<p>I didn’t know much about VOCALOID culture at the time of IA&#8217;s creation. As a matter of course, we approached her branding and production as we would for any artist, recognizing it as a task for the management team. As a result, her debut ended up being quite different compared to other VOCALOID characters.</p>
+<p>But little by little, I learned about the emerging market and culture surrounding Niconico, which is radically different from the mainstream music scene. Through Niconico, creators can freely present their works to the world and get feedback directly from their audience, a setup that I thought was amazing. I also found it significant that many talented people were using IA as a software tool to create said works.</p>
+<p>That said, IA still exists as a virtual artist who has a soul of her own, something completely separate from her role as a mere software tool.</p>
+<p><strong>VNN:</strong> So you mean that IA the VOCALOID software, and IA the 1st Place artist, each carry their own separate identities?</p>
+<p><strong>Murayama:</strong> That&#8217;s right. They may have the same name, but their essence is completely different.</p>
+<p>&nbsp;</p>
+<p><strong>VNN:</strong> And Ddickky, how about Stardust?</p>
+<p><strong>Ddickky: </strong>I first discovered and took interest in VOCALOID culture when I was in high school. Then, during college, I started creating music and met many other people like myself.  However, through our interactions, I came to realize that even the most talented creators can still lack proper management skills, which means that even their best songs would get low view counts. At this rate, they wouldn’t be able to make a living by writing music, and would sooner or later loose their creative skills, or stop working on music altogether, scenarios that I didn&#8217;t want to see happen.</p>
+<p>I wanted to build a platform to help these creators and provide them with a better creative environment. Thus, Quadimension was born. We gave Stardust her name because it represents the direction that our company takes. The name “Stardust” signifies every single speck of dust in a great galaxy, much like what every creator and fan in the VOCALOID world is like. Individually, we are all tiny and insignificant. But when we all gather together, we can form a gorgeous galaxy.</p>
+<p>We hope to offer every talented creator in China a platform to help them grow, and assist them in creating wondrous works of art. For example, if a musician wants to release an album, we can help them market it. That is what we call &#8220;Serving the Creators.&#8221;</p>
+<p><strong>Murayama:</strong> I completely agree with Ddickky’s development concept. This year marks the 14th year since 1st PLACE was established. In my previous company, there was a time when I served as the manager for nearly 10 different musicians. Back then, the music scene was quite different from what it is now. No matter how talented these musicians were and no matter how noteworthy their achievements, it was always the artists onstage and in the spotlight who would receive the credit. These musicians would rarely see their contributions get recognized, and were constantly getting replaced and moving from job to job, as if their services were expendable.</p>
+<p>Seeing this, I kept thinking, &#8220;Isn&#8217;t there some way to create an environment that doesn&#8217;t keep their talent hidden backstage, but instead helps them succeed on the forefront of the stage?&#8221;</p>
+<p>That became my motivation for establishing 1st Place, and it&#8217;s still the driving force behind the company today. The IA PROJECT label was likewise based on this idea, created in order to serve artists who dream of becoming pros. Through the use of VOCALOID and IA as a creation tool, we wanted to see these creators break free from the shackles that kept them behind the scenes, and help them shine as the starring role on stage.</p>
+<p>&nbsp;</p>
+<h3><strong>VNN：Both 1st Place and Beijing Photek follow the PGC (Professionally-Generated Content) model of business. What do you think about the relationship between the UGC (User-Generated Content) and PGC models? Going forward, which do you think you will be following?</strong></h3>
+<p><strong>Murayama: </strong>Actually, I have never heard the term PGC until today. At first, I didn’t know much about VOCALOID culture, where the UGC model is the mainstream. We thus tried to promote IA using my own ideas, and unwittingly ended up violating a lot of the implicit rules in the community, which we received a lot of criticism for. But since then, we&#8217;ve come to learn how to respect VOCALOID culture, and even how to help facilitate it. Thanks to that, we&#8217;ve been able to continue the IA PROJECT without any more doubts.</p>
+<p>Sorry if this is a bit off-topic, but we first started the IA PROJECT as a way to lend support and strength VOCALOID creators who seriously wish to become professional musicians. While the VOCALOID community is no doubt a wonderful platform for creators to present their works, the culture at the time had its own peculiar set of rules and customs that I felt actually hindered people who aspired to become professionals. I believe that the amazing creativity born out of the community should not be contained to just the VOCALOID world, but shared with a more general audience. The UGC model has brought with it a wonderful creative culture, but if it is contained to its own narrow confines, then it can never grow as a culture. For the sake of long-term development, we should be looking towards opening up to the general, mainstream market, rather than keeping it as merely a subculture.</p>
+<p>By that same token, while it&#8217;s wonderful how artists can now self-produce their own hit songs, I believe it inevitable that VOCALOID culture will eventually grow in a way that will help managers get in touch with musicians in all sorts of fields more easily under the VOCALOID brand. We were often criticized for trying to follow this pattern in the past, but the fact that there is now the term &#8220;PGC&#8221; to describe this pattern means that it&#8217;s gaining acceptance, which makes me glad to see.</p>
+<p><strong>Ddickky: </strong>Our business progression was actually the reverse of 1st Place&#8217;s, starting from UGC, then switching gears to PGC. We started off as a<em> <a href="https://en.wikipedia.org/wiki/Dōjin" target="_blank" rel="noopener">dojin</a> </em>circle with many highly skilled creators, each with their own share of fans. The advantage of this setup was that both fans of our members&#8217; works, and fans of our brand name would all become Stardust fans, which is why she was able to have such a large following right from the outset. Then, after we switched to the PGC model, our members were contracted to work full-time as part of a company. We were no longer just individual artists, but were now part of a collective group, which helped bring us all closer together, another great advantage to working as a company. However, there were voices of opposition raised by several fans who felt that we were ruining the spirit of the <em>dojin</em> environment by commercializing our works.</p>
+<p>But the fact of the matter is that the UGC environment is China lacks infrastructure, and has very few people actively creating in it. So on the one hand, we still operate in the UGC environment to the extent that we can introduce more people to VOCALOID. On the other hand, we also follow the PGC model to promote Stardust by giving her a character image, creating a narrative for her, writing songs for her, and more. Luckily, our core fans appreciate what we put out, and understand what we are trying to accomplish. That all reassures me that our current thought process is the correct one to follow.</p>
+<p>As for our future plans, since we are still a group of creators at heart, our greatest desire is to serve fellow creators &#8211; as opposed to serving virtual idols &#8211; by putting out original albums featuring human <em><a href="http://utaite.wikia.com/wiki/Utaite" target="_blank" rel="noopener">utaite</a> </em>singers. Not only will this better serve talented song writers who wish to write more than just VOCALOID music, but it will also give talented <em>utaite</em> the chance to sing some original songs.</p>
+<p>&nbsp;</p>
+<h3><strong>VNN:</strong> <b>So after a creator enters the company, they would gradually turn from VOCALOID song-writing to a wider field of music?</b></h3>
+<p><strong>Ddickky: </strong>That&#8217;s up to them. Whether the creator wants to always work on VOCALOID music, or wish to expand into other fields of music, we are glad to help them accomplish their goals. In fact, if any member wishes to look elsewhere to try their hand at something that they themselves aspire to create &#8211; such as anime and video game music, or the theme song for a drama series &#8211; we would be happy to support them on the economic front so that they can create to their heart&#8217;s desire. It is my dream for us as a company to create a platform on which we can help realize every creator&#8217;s vision.</p>
+<p>&nbsp;</p>
+<p><strong>VNN: </strong>So then, is the IA PROJECT also a label that is squarely focused on IA?</p>
+<p><strong>Murayama: </strong>No, the IA PROJECT is totally separate from IA herself. It seems that fans have quite a few misconceptions about the IA PROJECT. I would like to take this opportunity to explain.</p>
+<p>The IA PROJECT was not founded on the premise of simply promoting IA, but rather to support all VOCALOID song creators who want to become professional musicians in the future. However, at the time of the project&#8217;s creation, IA was the only available software from 1st Place, so we naturally named it the IA PROJECT, and focused mainly on supporting activities that use IA&#8217;s software.</p>
+<p>For example, some VOCALOID producers like <a href="http://vocadb.net/Ar/552" target="_blank" rel="noopener">Jin</a> and <a href="http://vocadb.net/Ar/658" target="_blank" rel="noopener">Ishifuro</a> got their start from the IA PROJECT. Although I originally met them by requesting their help in testing IA&#8217;s beta version, we never asked them to use only IA.</p>
+<p>When I listened to their music, I could tell that they were brimming with raw talent, and learned that they aspire to become professional musicians. Naturally, I wanted to support them in pursuit of their dreams, and in doing so, the means of support that we could provide started to take form, realizing that IA as a creation tool would be perfect for such a purpose. That was when the IA PROJECT really took off and became what it is today.</p>
+<p>By meeting through IA, and by using IA&#8217;s software as a creative tool, Jin and Ishifuro were able to write some incredibly high-quality songs that became trademark works for both IA, and for themselves. This was a natural course of action, made possible because the artists were able decide for themselves how they wanted their songs to be. I would never dream of interfering with or limiting their work by asking them to use only IA for all of their creations. That would do no one any good.</p>
+<p>But I’m also IA’s official producer, so from that standpoint, I would indeed ask them to write and provide songs for IA to sing. The IA songs that we ask them to write are completely separate and unrelated to their own works, so one can almost say that we&#8217;re merely &#8220;ordering&#8221; songs from them in order to build on IA&#8217;s profile and brand name. A lot of people probably think that we <em>instruct</em> these creators to write songs using only IA, but in reality, the IA songs that we commission from them have nothing to do with the works that they create on their own volition. There are these and probably other misunderstandings that the name &#8220;IA PROJECT&#8221; carries with it.</p>
+<p><strong>Ddickky:</strong> I think that we are exactly alike in that regard. While we are always supporting our members in whatever project they wish to undertake, we also often commission them to write official songs for Stardust. I believe that this is the case for all VOCALOIDs, with individual creators using them for their own works, and sometimes being commissioned to use them in official songs for album releases.</p>
+<p>&nbsp;</p>
+<h3><strong>VNN: During the interview between IA and Stardust, you mentioned the potential for collaboration between many various artists and creators. So is there any possibility that your two companies would collaborate on something in the future?</strong></h3>
+<p><strong>Murayama: </strong>When we were talking earlier about the concept and idea behind Stardust&#8217;s birth, I found it quite fascinating. Although we definitely share a lot of the same objectives, I think our approach towards realizing those objectives differ. For example, whenever I need a song for IA, I would have a general overview of what the song needs to be like, and commission the artists to create a song that would fit that concept. But in Stardust&#8217;s case, it&#8217;s more like a singular team effort between commissioners and creators to write a song based on the desired concept. I find that to be rather avant-garde and creative of them. I&#8217;d like to first learn a little more about the process, but if we were to collaborate with Stardust, would it have to be completed as a team?</p>
+<p><strong>Ddickky:</strong> Not necessarily. We really don’t have such a restriction. There&#8217;s no one set image for Stardust that is agreed upon by all members of Quadimension, and anyone can work independently from the rest. Even if our present policy dictates that we must select a song from our pool of works that fits Stardust&#8217;s repertoire, as long as the final product is something that would satisfy the fans, we would welcome it.</p>
+<p>Actually, we have realized a problem with this &#8220;laissez-faire&#8221; approach: it often results in inefficiency, and in songs that aren&#8217;t as high-quality as we had hoped for. It guess it would be better to first get everyone to decide and agree on at least part of the general objective before starting work on it.</p>
+<p>For example, for the Stardust concert, we drew from the pool of songs that our company members have made for Stardust to perform, thinking that we would have an abundance of appropriate songs. But in the end, we discovered that we actually have very few genuinely usable songs. When creating songs, what we as a company need now is something more like IA&#8217;s song creation process: a core policy by which we can direct the creator(s). Today, I brought along one of these creators (<em>referring to <a href="http://vocadb.net/Ar/51605" target="_blank" rel="noopener">EDR</a></em>) to come watch the concert. We would both watch and talk about what type of song would be suitable for a concert, and whether or not we can create such a song.</p>
+<p><strong>Murayama:</strong> I see. Sorry again if this is a bit unrelated, but in Japan, the mass market is pretty familiar with the word VOCALOID, but not “virtual idol,” for it’s a new concept. Some people just think that they are the same as anime characters, which often causes some setbacks for our project. So I’d like to know what the &#8220;virtual idol&#8221; market is like in China.</p>
+<p><strong>Ddickky:</strong> <a href="https://en.wikipedia.org/wiki/ACG_(subculture)" target="_blank" rel="noopener">ACG culture</a> is in a period of the rapid development in China. For example, even though Bilibili was created after and as an imitation of Niconico, it’s actually growing faster than Niconico now. When it comes to level of mass market penetration, however, ACG culture is still not as popular in the Chinese market as it is in Japan. Even though China is quickly taking to the concept of virtual idols, the concept has not yet spread to as much of the Chinese population as it has to the Japanese population. Then again, because China&#8217;s population is so large, when counting the shear <em>number</em> of virtual idol fans in China, you&#8217;ll see that its rising at an almost frightful rate! I believe that this is one of the advantages to marketing virtual idols in China.</p>
+<p><strong>Murayama:</strong> I see! Going back to the talk about collaborations, I&#8217;d like to mention that it&#8217;s in my character to always try new things and challenge traditional frameworks. With this in mind, while collabs between Chinese and Japanese artists are certainly nothing rare, what <em>is</em> rare is seeing them between virtual idols from two different countries. Furthermore, if we can really go through with this collab, then I&#8217;d like for the results to not just be limited to fans of the ACG subculture, but also get exposed to the general masses, who will likely be amazed by what they see. Wouldn&#8217;t it be wonderful if we could pull that off!</p>
+<p><strong>Ddickky: </strong>We are absolutely open to that idea! My main desire from a collab with IA would be to make something that simultaneously astonishes and pleases all who see it, fans and non-fans alike. I&#8217;ve noticed that our &#8220;IA x Stardust&#8221; talks have drawn a lot of attention from fans on Weibo, who have even submitted some fan art of the two. I think a lot of fans would love to see an IA and Stardust collab someday!</p>
+<p><strong>VNN: </strong>We would love to see that, too! We hope to hear more about a IA x Stardust collab someday soon! Thank you both very, very much for your precious time!</p>
+<p>The post <a rel="nofollow" href="/interview-with-murayama-from-1st-place-ddickky-from-quadimension/">Interview with Murayama From 1st PLACE &#038; Ddickky From Quadimension</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/interview-with-murayama-from-1st-place-ddickky-from-quadimension/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VNN Interview with AVA!</title>
+		<link>/vnn-interview-ava/</link>
+					<comments>/vnn-interview-ava/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[showraku]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2017 05:19:41 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[AVA]]></category>
+		<category><![CDATA[VOCALOID 4]]></category>
+		<guid isPermaLink="false">/?p=129638/</guid>
+
+					<description><![CDATA[<p>Greetings. This is Showraku of VNNJP. On August 15th, 2017, I braved the stormy weather to reach AVA&#8216;s office in western Shinjuku in order to score a copy of LUMi&#8217;s limited edition! Their office was quite a walk away from the nearest train station and hidden away on a narrow little street by a gyudon &#8230;</p>
+<p>The post <a rel="nofollow" href="/vnn-interview-ava/">VNN Interview with AVA!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Greetings. This is Showraku of VNNJP.</p>
+<p>On August 15th, 2017, I braved the stormy weather to reach <a href="http://vocadb.net/Ar/58720" target="_blank" rel="noopener">AVA</a>&#8216;s office in western <a href="https://en.wikipedia.org/wiki/Shinjuku" target="_blank" rel="noopener">Shinjuku</a> in order to score a copy of <a href="/limited-edition-packaging-for-vocaloid-4-lumi-revealed/" target="_blank" rel="noopener">LUMi&#8217;s limited edition</a>!</p>
+<p>Their office was quite a walk away from the nearest train station and hidden away on a narrow little street by a <a href="https://en.wikipedia.org/wiki/Gy%C5%ABdon" target="_blank" rel="noopener">gyudon</a> restaurant, well off the main road. Those who have never been to the area before would be well-advised to download a navigation app beforehand, or risk getting lost.</p>
+<p><figure id="attachment_129452" aria-describedby="caption-attachment-129452" style="width: 225px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2017/08/IMG_1384.jpg"><img loading="lazy" class="wp-image-129452 size-medium" src="/wp-content/uploads/2017/08/IMG_1384-225x300.jpg" alt="" width="225" height="300" srcset="/wp-content/uploads/2017/08/IMG_1384-225x300.jpg 225w, /wp-content/uploads/2017/08/IMG_1384-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a><figcaption id="caption-attachment-129452" class="wp-caption-text">Entrance to AVA&#8217;s office, tucked snugly away in a corner of the <a href="https://officee.jp/catalog/%E3%82%B7%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%93%E3%83%AB/28713/" target="_blank" rel="noopener">Shinko building</a>&#8216;s third floor</figcaption></figure></p>
+<p>I arrived 10 minutes before my appointed time, and was greeted by AVA&#8217;s president, <a href="https://twitter.com/kaoruava" target="_blank" rel="noopener">Kaoru Yoshizawa</a>, and producer, <a href="https://twitter.com/hiwashiava" target="_blank" rel="noopener">Mr. Hiwatashi</a>, who then showed me to the reception area where my copy of LUMi was waiting. After that, began my 30-minutes of conversation time with the AVA staff, and since I prepared questions from the rest of the VNN staff beforehand, I kicked this session off with something of a mini-interview, which you can read below.</p>
+<p><figure id="attachment_129465" aria-describedby="caption-attachment-129465" style="width: 300px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2017/08/IMG_1394.jpg"><img loading="lazy" class="wp-image-129465 size-medium" src="/wp-content/uploads/2017/08/IMG_1394-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/08/IMG_1394-300x225.jpg 300w, /wp-content/uploads/2017/08/IMG_1394-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-129465" class="wp-caption-text">Left to right: Mr. Hiwatashi and President Yoshizawa of AVA</figcaption></figure></p>
+<p><span style="font-weight: 400;"><strong>VNN</strong>: Is there any possibility that AVA will develop an English voice bank for LUMi someday? One of our members has noticed that even her Japanese trial version has surprisingly good pronunciation of English words when utilizing her existing phonemes.</span></p>
+<p><span style="font-weight: 400;"><strong>AVA</strong>: &#8220;Currently, we have no plans for that. However, [LUMi&#8217;s voice provider] <a href="http://vocadb.net/Ar/58721" target="_blank" rel="noopener">Miss Ohara</a> is quite proficient at English, so it is definitely something that we would like to create someday. Of course, that would all depend on sales of LUMi&#8217;s Japanese voice bank.&#8221;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><strong>VNN</strong>: So AVA was founded in May of this year with the intent of becoming &#8220;a company that supports young creators.&#8221; To that end, why has AVA chosen to create a virtual artist, a VOCALOID?</span></p>
+<p><span style="font-weight: 400;"><strong>AVA</strong>: &#8220;Firstly, it&#8217;s because we believe that the world is moving towards an age where user-generated content creation will become the norm. Thanks to how easy it is to upload one&#8217;s own creation to the internet, we decided to create a VOCALOID to serve as a catalyst through which creators can start developing and distributing their works. We see a VOCALOID as both a character and a creative platform, which we believe makes them the perfect medium for creators to express and develop themselves.<br />
+</span></p>
+<p><span style="font-weight: 400;">&#8220;Secondly, LUMi has an entire universe based around her, which we think makes it easier for users to start creating their own works, giving them something to build off of.&#8221;<br />
+</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><strong>VNN</strong>: Are there any plans for supporting users in the Chinese-speaking world? </span></p>
+<p><span style="font-weight: 400;"><strong>AVA</strong>: &#8220;That&#8217;s certainly something that we would like to do. However, it probably wouldn&#8217;t be for creating a new voice bank, but rather for something like putting together a live concert for Chinese audiences. We&#8217;ve noticed that there are even creators in China who like to use Japanese VOCALOIDs like <a href="http://vocadb.net/Ar/1" target="_blank" rel="noopener">Hatsune Miku</a> to create songs, and we would welcome the opportunity to work together with them to support Chinese creators.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><strong>VNN</strong>: In the <a href="/lumi-creators-interview-4-released-all-about-yoake-no-uta/" target="_blank" rel="noopener">most recent installment</a> of your interview series, <a href="https://twitter.com/shotarock_p" target="_blank" rel="noopener">Shotaro Kaizuka</a> mentions how there were times when &#8220;it was almost like we were creating an animated film out of her, first establishing the story material, and then coming up with the soundtrack.&#8221; With such a deep backstory, is there any chance that LUMi&#8217;s world may expand beyond the realm of VOCALOID music, and into other forms of media (anime, movie, etc.)?</span></p>
+<p><span style="font-weight: 400;"><strong>AVA</strong>: &#8220;While we wouldn&#8217;t go as far as to say that there&#8217;s no chance of that happening, please keep in mind that we&#8217;re a company that is squarely focused on supporting young creators. We&#8217;re actually worried that if LUMi were to appear in other media, like in an anime, then that could have the adverse affect of narrowing the range and scope of creative works that users could otherwise make with her. The direction that we would like to take instead is to gradually release more content for her, and then from there gauge how well we are closing the gap between us and the creators whom we strive to support.<br />
+</span></p>
+<p><span style="font-weight: 400;">&#8220;After all, just because LUMi has an established backstory, that doesn&#8217;t mean we want all works with her to be a certain way.&#8221;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><strong>VNN</strong>: This may be a silly question to ask given how LUMi was only just released, but does AVA have any plans for creating another VOCALOID, or further developing LUMi in any way?</span></p>
+<p><span style="font-weight: 400;"><strong>AVA</strong>: &#8220;Both are up for consideration, but for now, we want to stay completely focused on LUMi, and are not yet at the stage when we can start thinking about anything else.&#8221;</span></p>
+<p>&nbsp;</p>
+<p>After the interview was over, I then got to talk more with AVA about other topics such as my impressions of LUMi&#8217;s trial version, all from the standpoint of a young creator myself. Alas, my 30 minutes with them were up before I knew it, and it was then time to pay for my copy of LUMi&#8217;s limited edition, take a commemorative photo of this visit, and then finally leave AVA&#8217;s office behind.</p>
+<p><figure id="attachment_129477" aria-describedby="caption-attachment-129477" style="width: 225px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-129477 size-medium" src="/wp-content/uploads/2017/08/IMG_1386-225x300.jpg" alt="" width="225" height="300" srcset="/wp-content/uploads/2017/08/IMG_1386-225x300.jpg 225w, /wp-content/uploads/2017/08/IMG_1386-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" /><figcaption id="caption-attachment-129477" class="wp-caption-text">LUMi&#8217;s limited edition packaging. I even got a bookmark for visiting!</figcaption></figure></p>
+<p>So while I initially went to visit AVA for the purpose of acquiring my copy of LUMi, I now find myself wishing to pay them a visit again and attend another one of these so-called &#8220;LUMeetings&#8221; (combination of &#8220;<em>LUMi&#8221;</em> and &#8220;<em>meeting&#8221;</em>) should the opportunity present itself&#8230; all with a newfound sense of being one of these &#8220;young creators&#8221; myself&#8230;</p>
+<p><span style="font-weight: 400;">Oh, and by the way&#8230;<br />
+</span></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="ja" dir="ltr">いろいろとご不便をおかけしてすみませんでした。LUMi初回限定版をより多くの皆様に届けられるよう8月下旬オープン予定のECサイトでも販売することに致しました。海外配送も対応しています。ただ直接お話もとてもしたいのでAVAオフィスまでいらっしゃることができる方は是非お越しください！ <a href="https://t.co/l88c4juSZc">https://t.co/l88c4juSZc</a></p>
+<p>&mdash; AVA 吉澤 馨 (@kaoruava) <a href="https://twitter.com/kaoruava/status/897025350676262912">August 14, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote><p>&#8220;We humbly apologize for causing everyone so much inconvenience. However, we would like to announce that starting in late-August, we will be opening an e-commerce site where we will be selling and distributing LUMi&#8217;s limited edition to an even greater number of people! International shipping will be available as well. Of course, we would still love to meet and talk with all of you face-to-face, so for those who can make the trip to our office, please continue to do so!&#8221;</p></blockquote>
+<p>&#8230;it seems like LUMi&#8217;s limited edition will soon be available for purchase online. So to those who really want her but can&#8217;t make the sojourn to Tokyo, you need to just wait a wee bit longer!</p>
+<p>
+<a href='/wp-content/uploads/2017/08/IMG_1391.jpg'><img width="300" height="225" src="/wp-content/uploads/2017/08/IMG_1391-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2017/08/IMG_1391-300x225.jpg 300w, /wp-content/uploads/2017/08/IMG_1391-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2017/08/IMG_1392.jpg'><img width="300" height="225" src="/wp-content/uploads/2017/08/IMG_1392-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2017/08/IMG_1392-300x225.jpg 300w, /wp-content/uploads/2017/08/IMG_1392-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+</p>
+<p style="text-align: center;"><span style="font-weight: 400;">(Posters of LUMi that can be found in AVA&#8217;s office)</span></p>
+<p><a href="https://lumi.ava01.com/"><span style="font-weight: 400;">LUMi&#8217;s Official Site</span></a></p>
+<p><a href="https://lumi.ava01.com/limitedsale"><span style="font-weight: 400;">Official Site for LUMi&#8217;s Limited Edition</span></a></p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/vnn-interview-ava/">VNN Interview with AVA!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vnn-interview-ava/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VNN Interview with BIGHEAD!</title>
+		<link>/vnn-interview-with-bighead/</link>
+					<comments>/vnn-interview-with-bighead/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Cinzya]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2017 03:29:00 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Producer]]></category>
+		<category><![CDATA[VNN]]></category>
+		<guid isPermaLink="false">/?p=121582/</guid>
+
+					<description><![CDATA[<p>VNN&#8217;s German division was able to attend Dokomi this year. Luckily, we were also able to interview BIGHEAD who attended Dokomi, with TANAKA who wrote the lyrics for their well known song &#8220;Sharing the World&#8220;, for the Miku Expo 2014! Unfortunately, during the convention, the Dokomi interpreter didn&#8217;t have much time, so we were only &#8230;</p>
+<p>The post <a rel="nofollow" href="/vnn-interview-with-bighead/">VNN Interview with BIGHEAD!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>VNN&#8217;s German division was able to attend Dokomi this year. Luckily, we were also able to interview <a href="http://vocadb.net/Ar/2733" target="_blank" rel="noopener">BIGHEAD</a> who attended Dokomi, with TANAKA who wrote the lyrics for their well known song &#8220;<a href="http://vocadb.net/S/66126" target="_blank" rel="noopener">Sharing the World</a>&#8220;, for the Miku Expo 2014! Unfortunately, during the convention, the Dokomi interpreter didn&#8217;t have much time, so we were only able to ask a few questions. Due to time issues, part of the interview was conducted in person while the other was by email. However, please enjoy our full interview with BIGHEAD!<br />
+<em>Note: The interview was conducted in Japanese. While we try to keep our translations as accurate as possible, not everything translates perfectly.<br />
+</em></p>
+<h3>The Interview</h3>
+<p><strong>VNN:</strong> <em>First, thank you BIGHEAD for your time. It&#8217;s really nice to welcome you here in Germany! So how was Germany and Dokomi? Would you like to come to Europe again?</em></p>
+<p><strong>BIGHEAD:</strong> At Dokomi, everything was perfect. Everyone there was enjoying the event with a fresh feeling. It made me feel that animation, manga and cosplay are advancing their own evolution rather than following Japan.</p>
+<p>Unlike Paris and <a href="https://en.wikipedia.org/wiki/Nice" target="_blank" rel="noopener">Nice</a>, which I visited last year, the deep clouds and the beautiful cityscape here have given me some inspiration. I think that I&#8217;ll also be able to create new songs influenced by my experiences in Germany. I&#8217;d like to come back to Europe soon.</p>
+<p><strong>VNN:</strong> <em>That&#8217;s nice to hear! So I guess we could start with our actual interview if you don&#8217;t mind. So how did you discover VOCALOID at first?</em></p>
+<p><strong>BIGHEAD:</strong> I&#8217;ve seen this Google ad, the &#8220;<a href="http://vocadb.net/S/8395" target="_blank" rel="noopener">Tell Your World</a>&#8221; video and was very moved by it.</p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/MGt25mv4-2Q?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><strong>VNN: </strong><em>It&#8217;s well known today, isn&#8217;t it? Did you have any experience in writing music prior to VOCALOID?</em></p>
+<p><strong>BIGHEAD:</strong> I&#8217;ve been playing in a band since my days in school, high school, that is, and recorded stuff in a recording studio later on.</p>
+<p><strong>VNN:</strong> <em>Which instrument did you play? Do you still play it?</em></p>
+<p><strong>BIGHEAD:</strong> At the start, I played the guitar, then the bass, and in my college days, I was playing the drums all the time. When making songs with <a href="http://vocadb.net/Ar/1" target="_blank" rel="noopener">Hatsune Miku</a>, I still record the bass and guitar by myself, and my drumming experience is useful when programming drums. My past involvement with music is certainly helping.</p>
+<p><strong>VNN: </strong><em>Only after being in VOCALOID and producing for some time, did you change your producer name to BIGHEAD. Where does this alias come from and what does it mean?</em></p>
+<p><strong>BIGHEAD:</strong> The person I love has a rather big head &#8211; and that&#8217;s where &#8220;BIGHEAD&#8221; came from.</p>
+<p><strong>VNN:</strong> <em>Haha, that&#8217;s a lovely choice! So, what we were also wondering, unlike other Japanese producers, you write a lot of English songs. What inspired you to write mainly songs with English lyrics?</em></p>
+<p><strong>BIGHEAD:</strong> There was a &#8220;Western Music Boom&#8221; during the time I was in high school. I&#8217;ve listened to nothing but Western Music, so I wanted to make stuff like that. I thought that it would be good and common.</p>
+<p><strong>VNN:</strong> <em>And you are indeed appreciated in the west for your work! A lot of Spanish-speaking people love the Spanish version of &#8220;Sharing the World&#8221;. What do you think about it, and about how other songs are translated into different languages?</em></p>
+<p><strong>BIGHEAD:</strong> I&#8217;m honored that &#8220;Sharing The World&#8221; is played in various countries, but it is surprising that it has been covered in Spanish, Chinese, and even more languages! I receive a lot of emails every month saying &#8220;Please release this&#8221; from Mexican fans.  I hope that &#8220;Sharing The World&#8221; will continue to expand all over the world.</p>
+<p><strong>VNN:</strong> <em>You&#8217;ve used <a href="http://vocadb.net/Ar/958" target="_blank" rel="noopener">Miku&#8217;s English V3</a> and her <a href="http://vocadb.net/Ar/49724" target="_blank" rel="noopener">English V4</a>. Which do you think is better, V3 or V4?</em></p>
+<p><strong>BIGHEAD:</strong> For Japanese, V2 is Number 1. After that, I use V4 frequently. With V4, I think that the possibilities of expression and choices are expanded. As for English, I like V3 in the part of pronunciation and rhythm, so I mainly use v3.</p>
+<p>I was planning to say that at the Dokomi workshop, that it is effective to use V3 and V4 in combination for harmony parts. I wanted to tell everyone more, but, in the workshop, there were a lot of enthusiastic questions and it was so exciting I couldn&#8217;t fit everything in.</p>
+<p><strong>VNN:</strong> <em>Are you planning on using other VOCALOIDs in the future?</em></p>
+<p><strong>BIGHEAD:</strong> I&#8217;ve met Joffrey from <a href="http://vocadb.net/Ar/16810" target="_blank" rel="noopener">this French company</a> here at Dokomi, so I decided to make something, and he and I can work on it together.</p>
+<p><strong>VNN:</strong> <em>What do you think about the VOCALOID characters and their personalities? Is it the composer who makes their personality? And for the composer, who is part of the fandom, will public opinion of the fandom form the composer&#8217;s opinion on a character?</em></p>
+<p><strong>BIGHEAD:</strong> I do not think that VOCALOIDs themselves have personalities. VOCALOIDs are colorless and transparent, so composers and listeners can self-project. But the composer cannot make the personality of a VOCALOID, because the personality of VOCALOID is by everyone. I like how that part is hard and can not be handled. However, it isn&#8217;t difficult to share VOCALOID content. By using VOCALOID, &#8220;Sharing The World&#8221; becomes easy!</p>
+<p><strong>VNN:</strong> <em>How was it to cooperate with other artists when making <a href="http://vocadb.net/S/150365">&#8220;OISHII&#8221; TRIP</a>?</em></p>
+<p><strong>BIGHEAD:</strong> Composer <a href="http://vocadb.net/Ar/57113">Oguro</a> and lyricist <a href="http://vocadb.net/Ar/57112">Aoyama</a> have profound knowledge about VOCALOID, so we were able to produce smoothly. I have enjoyed it thanks to the experience collaborating with <a href="http://vocadb.net/Ar/2434">EmpathP</a>, <a href="http://vocadb.net/Ar/919">CircusP</a> and <a href="http://vocadb.net/Ar/25588">ROBO</a> for the first time. Also, this time I was very happy that customers shook hands and raised their voices when playing &#8220;OISHII&#8221; TRIP at Dokomi&#8217;s DJ event.</p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/ZuAiTiExIPI?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><strong>VNN:</strong> <em>Do you have any advice for fans who are getting started in producing and are becoming successful?</em></p>
+<p><strong>BIGHEAD:</strong> After about a year after I started making VOCALOID songs, my first song was selected for a Lady Gaga concert. You never know what can happen, so if you happen to come across a huge chance like that, have the courage to meet the challenge.</p>
+<p><strong>VNN:</strong> <em>Is there anything else you would like to say to your fans?</em></p>
+<p><strong>BIGHEAD:</strong> I like to take part in events like Dokomi and want to communicate with people from all over the world, so I&#8217;d like to thank all the people I&#8217;ve met in this country.</p>
+<p><strong>VNN:</strong> <em>Thank you for your time! Hopefully we&#8217;ll see you again soon in Europe and have fun at Anime Next!</em></p>
+<p>The post <a rel="nofollow" href="/vnn-interview-with-bighead/">VNN Interview with BIGHEAD!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vnn-interview-with-bighead/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LUMi Creators Interview 4 Released: All About “Yoake no Uta”</title>
+		<link>/lumi-creators-interview-4-released-all-about-yoake-no-uta/</link>
+					<comments>/lumi-creators-interview-4-released-all-about-yoake-no-uta/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Hoshi]]></dc:creator>
+		<pubDate>Mon, 31 Jul 2017 19:05:00 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[AVA]]></category>
+		<category><![CDATA[Producer]]></category>
+		<guid isPermaLink="false">/?p=121185/</guid>
+
+					<description><![CDATA[<p>The fourth LUMi creators interview was recently released for all to read! It&#8217;s an interview with Shotaro Kaizuka of Nippon Columbia and Bunta, the creator of “Yoake no Uta”, about the official demo song. While the two discuss the song and it&#8217;s creation, they also give even more insight into LUMi as well. So we&#8217;re &#8230;</p>
+<p>The post <a rel="nofollow" href="/lumi-creators-interview-4-released-all-about-yoake-no-uta/">LUMi Creators Interview 4 Released: All About “Yoake no Uta”</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The fourth LUMi creators interview was recently released for all to read! It&#8217;s an interview with <a href="https://twitter.com/shotarock_p" target="_blank" rel="noopener">Shotaro Kaizuka</a> of <a href="http://columbia.jp/" target="_blank" rel="noopener">Nippon Columbia</a> and <a href="http://vocadb.net/Ar/41844" target="_blank" rel="noopener">Bunta</a>, the creator of “Yoake no Uta”, about the official demo song. While the two discuss the song and it&#8217;s creation, they also give even more insight into LUMi as well. So we&#8217;re able to learn about LUMi&#8217;s world as well her her demo.</p>
+<p>If you haven&#8217;t listened to the demo yet, be sure to check it out!</p>
+<p><iframe loading="lazy" width="618" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F327967195&#038;show_artwork=true&#038;maxwidth=618&#038;maxheight=927"></iframe></p>
+<h3>LUMi, a VOCALOID with a Firmly-Established Canon</h3>
+<p>Shotaro Kaizuka personally finds LUMi very different from other VOCALOIDs. While many different VOCALOIDs have sprung up from the culture surrounding NND, many aren&#8217;t as in-depth as LUMi. She&#8217;s treated like an actual character with a personality and backstory. While many VOCALOIDs are given personalities and the like, none have been as in-depth as LUMi&#8217;s story. According to Kaizuka, &#8220;It’s almost like we were creating an animated film out of her, first establishing the story material, and then coming up with the soundtrack&#8221;. Rather than feeling like he was making a demo song, he felt like he was creating the main theme of a movie soundtrack.</p>
+<p>In addition, Bunta noted LUMi is his favorite VOCALOID. While he owns ten of them, he feels that LUMi has the most gentle and pure voice.</p>
+<p>Kaizuka continues on noting how important LUMi&#8217;s backstory is. He says that it gives people the chance to think of LUMi in ways they wouldn&#8217;t have before. However, unlike many, he doesn&#8217;t see the backstory as limiting. He feels this new way of thinking will allow even more range of creativity.</p>
+<h3>Creating “Yoake no Uta”</h3>
+<p>Both Bunta and Kaizuka said that creating a song, or anything, doesn&#8217;t come easily. Both note they make songs for the listener more than themselves. While they personally may like something, they agree that it&#8217;s still no good if the listeners don&#8217;t like it. Bunta personally puts a strong emphasis on what he wants to convey when he writes. However, he also feels that he&#8217;s not just that as he also writes music based on what people want to hear and not necessarily completely what he wants.</p>
+<h4>Waves Are Not in 4/4 Time</h4>
+<p>Kaizuka actually joined in the production of the song when it was almost complete. However, with his help, the song became what it is now. He advised that the string instruments be redone.</p>
+<p>According to Kaizuka, the group wasn&#8217;t even sure what instruments they should be record for the song. But when he heard that LUMi’s story was set in <a href="https://en.wikipedia.org/wiki/Kamakura" target="_blank" rel="noopener">Kamakura</a>, he was able to find some direction. He imagined the scenery as daybreak on an early summer day, with the sound of waves crashing in the distance. Then he imagined how that kind of scenery could translate into a piano phrase as he listened to the song itself.</p>
+<p>When he heard the song’s demo for the first time, he wondered if it would suffice as an original song. He considered a rhythm change and when the song changed enough that he started thinking, “Now THIS would work as LUMi’s signature song!”, hestarted to wonder if the song didn&#8217;t necessarily have to all be in 4/4 time.</p>
+<p>There are moments when the rhythm changes between 6/8 time and 5/8 time to give the sense of &#8220;waves&#8221;. After all, waves are dynamic and are always changing. Kaizuka thought that the piano parts should reflect this.</p>
+<p>They went on to record drum, bass, and guitar parts afterwards. At first, they started with the drum and bass parts, then recorded the piano parts to go on top of them. But, at one point, Kaizuka suggested that playing and recording all three together may improve the song slightly. Bunta and Kaizuka both agree this vastly improved the song.</p>
+<h4>The Theme</h4>
+<p>At first, the song was themed around words like “ocean floor” and “harbor.” But, afterwards, rather than thinking along similar terms like “bubbles” or “water,” the theme of the song started to change to “space.” Bunta felt that having the song theme around “space” would fit Yoshizawa-san’s image of the song much better. Furthermore, the recording sessions were eventually moved to a much wider and more spacious studio, which changed the sound of the recordings. That meant it wasn’t just the theme, but even the studio that changed to fit the new direction of the song.</p>
+<h3>Hopes for LUMi</h3>
+<p>Bunta notes that he hopes people will start to use LUMi as their primary VOCALOID. He thinks she’s amazing with her pure and gentle voice, and her ability to pronounce every single sound, including diphones and triphones.</p>
+<p>As for Kaizuka, he hopes to see LUMi perform. He&#8217;d like to see LUMI in something like <a href="https://en.wikipedia.org/wiki/Isao_Tomita" target="_blank" rel="noopener">Isao Tomita’s</a> <a href="http://www.mikufan.com/hatsune-miku-x-tomita-isao-symphony-ihatov-to-be-held-in-beijing-on-may-20th" target="_blank" rel="noopener">“Symphony IHATOV”</a>, a live entertainment show in which <a href="http://vocadb.net/Ar/1" target="_blank" rel="noopener">Hatsune Miku</a> appeared in the orchestra to sing and dance. He felt like this was the complete package. According to him, people have been saying for years that the way in which we enjoy and consume music is going through a period of change. He thinks that if this is so, that LUMi should the one who introduces us to new ways of enjoying and consuming music.</p>
+<h3>Advice for Creators</h3>
+<p>Finally, the two were asked what advice they had for people who want to start creating music.</p>
+<p>Bunta said to just give it a try. Just start off by making one song then, before long, you’ll make lots more. Create songs that you yourself love and the work to create songs that others will love. Because, after all, creating something you think is a masterpiece means nothing if your listeners don&#8217;t like it.</p>
+<p>Kaizuka suggests that you have to have a good balance of input as well as output. He thinks that balance would be really difficult to attain if you only listen to music that you discover online. And, while he admits it’s true that VOCALOID software is convenient for lending vocals to your music, it comes with its own risk: if you only ever write VOCALOID songs, then you’ll never get to experience what it’s like to direct an actual singer. He stresses the importance of listening to lots of music in all different genres. A large amount of a variety of music is key.</p>
+<p>He also suggests that you spend time listening to one single song over and over again with reasonably good audio. If you listen very closely and earnestly, then you’ll be able to discover something new each and every time. You can then add those discoveries to your own personal repertoire of musical knowledge, helping to strike that balance mentioned above.</p>
+<p>He says it’s fine if you decide that the VOCALOID realm will be your primary battleground, but he believes that you should someday also learn to work with actual singers. He notes that other important points to keep in mind are practicing your step recording, practicing actual band ensembles, working with people who are adept at reading music scores, and, most importantly, always keeping an open mind about anything and everything.</p>
+<hr />
+<p>Please note that this is a summary of an unofficial translation by VNN. You can find the interview in Japanese <a href="https://ava01.com/interview/lumi004/" target="_blank" rel="noopener">here</a>.</p>
+<p>The post <a rel="nofollow" href="/lumi-creators-interview-4-released-all-about-yoake-no-uta/">LUMi Creators Interview 4 Released: All About “Yoake no Uta”</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lumi-creators-interview-4-released-all-about-yoake-no-uta/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Interview Between IA &#038; Stardust About BML VR and the Future</title>
+		<link>/interview-between-ia-stardust-about-bml-vr-and-the-future/</link>
+					<comments>/interview-between-ia-stardust-about-bml-vr-and-the-future/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Louis]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2017 00:05:11 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[1st Place]]></category>
+		<category><![CDATA[Concert]]></category>
+		<category><![CDATA[Quadimension]]></category>
+		<guid isPermaLink="false">/?p=120968/</guid>
+
+					<description><![CDATA[<p>Special thanks to kico酱 for the featured image. The night before BML VR, members of VNN Chinese had a chance to have an interview with Stardust and IA! We&#8217;d like the thank them so much for them sparing their time for this interview! VNN: First, thank you for accepting our interview, IA and Stardust. Is there anything &#8230;</p>
+<p>The post <a rel="nofollow" href="/interview-between-ia-stardust-about-bml-vr-and-the-future/">Interview Between IA &#038; Stardust About BML VR and the Future</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><em>Special thanks to kico酱 for the featured image.</em></p>
+<p>The night before <a href="/ia-vsinger-stardust-yan-xi-and-miss-monochrome-at-bilibili-macro-link/">BML VR</a>, members of VNN Chinese had a chance to have an interview with <a href="http://weibo.com/n/%E6%98%9F%E5%B0%98_Official?from=feed&amp;loc=at">Stardust</a> and <a href="http://weibo.com/n/IA-1stPLACE?from=feed&amp;loc=at">IA</a>! We&#8217;d like the thank them so much for them sparing their time for this interview!</p>
+<p><b>VNN: </b><b>First, thank you for accepting our interview, IA and Stardust. Is there anything you would like to say to your fans?<br />
+</b></p>
+<p><span style="color: #ff99cc;"><strong>IA: </strong></span>Hello everyone from Shanghai! I&#8217;m IA. It&#8217;s been a whole year since my last concert in Shanghai and I&#8217;m happy to get to see you all again!</p>
+<p><span style="color: #333399;"><strong>Stardust: </strong></span>Hello everyone, I&#8217;m Stardust. I&#8217;m a rookie VOCALOID that only debuted last year in February. I guess my unique talent is probably that I have a lot hair? (laughs)</p>
+<p><b>VNN: </b><b>This is your first time meeting each other, right?</b></p>
+<p><strong><span style="color: #ff99cc;">IA: </span></strong>After I heard that Stardust-san and I would have this interview together, I peeked in on her performance backstage during rehearsal. She has a beautiful voice and works really hard during her performances.</p>
+<p><strong><span style="color: #333399;">Stardust: </span></strong>I saw IA qianbei(senior) backstage during rehearsal, but I didn&#8217;t dare to say hello because I don&#8217;t know any Japanese. So, I just silently watched her practice backstage.</p>
+<p><b>VNN: </b><b>This is the first time for both of you at the Shanghai Mercedes-Benz Arena stage. Are you nervous?</b></p>
+<p><span style="color: #ff99cc;"><strong>IA: </strong><span style="color: #000000;">Actually, Lia had performed at the Mercedes-Benz Arena last year, so I&#8217;ve followed her and tried to learn something. My thought back then was &#8220;Ah, I wish I can perform on that stage someday.&#8221;, and my dream came true after a year. I am so happy and really thankful for this invitation from Bilibili<strong>.</strong></span></span></p>
+<p><span style="color: #333399;"><strong>Stardust:</strong></span> I am glad to receive the invitation from Bilibili, so I didn&#8217;t think twice when accepting the performance. But I did get nervous when thinking that my first performance will be on such a big stage.</p>
+<p><b>VNN: </b><b>Is there anything memorable to you during the preparations for BML VR?</b></p>
+<p><span style="color: #ff99cc;"><strong>IA: </strong><span style="color: #000000;">We&#8217;ve just announced it on our Official Weibo: IA will soon receive a </span></span><span style="color: #000000;">new </span><span style="color: #000000;">set of stickers on WeChat! It was actually specially prepared for BML VR. Since we want to have a variety of stickers, I had to keep changing clothes and making different poses during photo shoot. It was tiring but also quite a new experience to me, because I never shot for a motion sticker before. </span></p>
+<p><strong><span style="color: #333399;">Stardust: </span></strong>As a virtual singer, I was more focused on my vocal skill before this event. But since performing <em>live</em> means dancing is also required for a full experience, the company hired a dancing teacher for me with the following two months having intensive training. It was one hell of a two months&#8230;</p>
+<p><b>VNN: </b><b>BML VR Concert has brought many different kinds of virtual singers from different companies into the same place. Does it mean anything special for you?</b></p>
+<p><span style="color: #ff99cc;"><strong>IA: </strong><span style="color: #000000;">I&#8217;ve been looking forward to it since I heard I would get to perform with so many brilliant singers on the same stage. Seeing the event getting closer everyday, my heart just </span></span><span style="color: #000000;">couldn&#8217;t stop beating <em>&#8220;dokidoki&#8221;</em>.</span></p>
+<p><span style="color: #333399;"><strong>Stardust: </strong></span>This performance is a good chance for me. I wish to get some experience that will help me with my own live concert at the end of the year.</p>
+<p><b>VNN: </b><b>IA has prepared a new Traditional Chinese themed design for this event, and everybody thinks it is just too cute. Can we expect more traditional culture themes from IA?</b></p>
+<p><span style="color: #ff99cc;"><strong>IA: </strong></span>I&#8217;m glad people like that design! It was also part of the promotions for IA&#8217;s world tour. 1st PLACE had also released two other designs, which are &#8220;French themed IA&#8221; and &#8220;Canada themed IA&#8221;. This fairy-like IA is also my favorite! I surely hope I can try on even more outfits from different countries and cultures in the future!</p>
+<p>
+<a href='/interview-between-ia-stardust-about-bml-vr-and-the-future/006thzwigy1fh3i13fwwdj31kw16o482-2/'><img width="150" height="150" src="/wp-content/uploads/2017/07/006tHzwIgy1fh3i13fwwdj31kw16o482-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='/interview-between-ia-stardust-about-bml-vr-and-the-future/%e6%90%9c%e7%8b%97%e6%88%aa%e5%9b%be20170723225338-2/'><img width="150" height="150" src="/wp-content/uploads/2017/07/搜狗截图20170723225338-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='/interview-between-ia-stardust-about-bml-vr-and-the-future/20289912_10155403788765359_1045244072_n-2/'><img width="150" height="150" src="/wp-content/uploads/2017/07/20289912_10155403788765359_1045244072_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='/interview-between-ia-stardust-about-bml-vr-and-the-future/20289792_10155403793925359_580760708_n-2/'><img width="150" height="150" src="/wp-content/uploads/2017/07/20289792_10155403793925359_580760708_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+</p>
+<p>&nbsp;</p>
+<p><b>VNN: </b><b>Stardust introduced her new concert album at BML. Was it especially prepared for your own concert at the end of the year?</b></p>
+<p><strong><span style="color: #333399;">Stardust: </span></strong>Yes, and this album will be different from my previous album; it will be a collection album. Not only will it have more tracks, it will also include new songs as well as covers and remasters of some of the classic tracks. This is definitely an album full of love from the creators~.</p>
+<p><b>VNN: </b><b>We heard the concert will be located in Shanghai too. How is the progress of the preparation? Do you mind sharing with us?</b></p>
+<p><span style="color: #333399;"><strong>Stardust: </strong></span>The concert is now confirmed to be on December 30th, 2017, and the location will be set in <em>The Mixing Room</em> in Shanghai Mercedes-Benz Arena! The concert will also includes an exhibition with a showcase of merchandise and a signing session with the producers.  <a href="https://item.taobao.com/item.htm?id=554843312693&amp;toSite=main">The tickets are now available at our official store.</a> We will also update everyone with our latest information on Weibo. All of the staff and I will work hard to bring this wonderful performance to our fans.</p>
+<p><figure id="attachment_120910" aria-describedby="caption-attachment-120910" style="width: 400px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2017/07/TB2fcmTA4hmpuFjSZFyXXcLdFXa_678151706.jpg_400x400.jpg"><img loading="lazy" class="wp-image-120910 size-full" src="/wp-content/uploads/2017/07/TB2fcmTA4hmpuFjSZFyXXcLdFXa_678151706.jpg_400x400.jpg" alt="" width="400" height="400" srcset="/wp-content/uploads/2017/07/TB2fcmTA4hmpuFjSZFyXXcLdFXa_678151706.jpg_400x400.jpg 400w, /wp-content/uploads/2017/07/TB2fcmTA4hmpuFjSZFyXXcLdFXa_678151706.jpg_400x400-150x150.jpg 150w, /wp-content/uploads/2017/07/TB2fcmTA4hmpuFjSZFyXXcLdFXa_678151706.jpg_400x400-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a><figcaption id="caption-attachment-120910" class="wp-caption-text">星尘Live演唱会官方海报</figcaption></figure></p>
+<p><b>VNN: </b><b>IA, as a senior who did quite a few concerts in the past, do you have any advice for Stardust?</b></p>
+<p><strong><span style="color: #ff99cc;">IA: </span></strong>Hmm&#8230;it wasn&#8217;t really advice. Before you go on stage, you can get nervous easily. But when you&#8217;re on the stage, seeing those smiles and hearing the cheers from fans, it just instantly boosts your motivation. Working with your audience to present a concert is definitely a rare experience.</p>
+<p><span style="color: #333399;"><strong>Stardust: </strong><span style="color: #000000;">Ah, and now I really learned something.</span></span></p>
+<p><b>VNN: </b><b>IA is there any new concert plans for the fans in near future?</b></p>
+<p><strong><span style="color: #ff99cc;">IA: </span></strong>Next week after this Live in Shanghai, IA will have another &#8220;Party a Go Go&#8221; in Montreal, Canada! It will be the 9th concert after Los Angles, Tokyo, New York, London, Shanghai, Hong Kong, Costa Rica and Mexico. I hope I can have another LIVE in China in the future! We are looking forward to working with China&#8217;s local artists and musicians, and IA encourages fans to tell us their opinion if they are interested in the idea, don&#8217;t be shy!</p>
+<p><b>VNN: </b><b>Since you both traveled to Shanghai for this concert, did you guys plan to relax in the city afterwards?</b></p>
+<p><span style="color: #ff99cc;"><strong>IA: </strong></span>I&#8217;ve tried Hotpot in Shanghai last year, and I ate it again yesterday with my staff. So, if you ask me what I would like to experience again in Shanghai, it would probably still be Hotpot!</p>
+<p><strong><span style="color: #333399;">Stardust:</span></strong> IA qianbei likes Hotpot? What a surprise!</p>
+<p><span style="color: #ff99cc;"><strong>IA: </strong></span>Yup. Since I needed to prepare for the concert, I only ate non-spicy Hotpot before. But after seeing everyone eating those red and really spicy-looking Hotpots, I just want to challenge it, too!</p>
+<p><strong><span style="color: #333399;">Stardust: </span></strong>I always wanted to visit Shanghai, so I plan to visit The Bund after the concert and experience the blended culture from the East and the West (smiles). And since we&#8217;re talking about food, I want to try the local cuisine! I want to experience the charm of Shanghai throughout, and its Jiangnan flavor seems like a good decision.</p>
+<p><b>VNN: </b><b>Thanks again to both singers for accepting our interview. Let&#8217;s say something to the fans before ending the interview!</b></p>
+<p><strong><span style="color: #ff99cc;">IA: </span></strong>IA will deliver my full strength for tomorrow&#8217;s concert, and bring my best performance for my Chinese fans! Please enjoy the night no matter if you are fans who are attending the concert or plan to watch it through live stream! どうぞよろしくお願いします<span style="color: #000000;">。(I hope you enjoy it!)<br />
+</span></p>
+<p><span style="color: #333399;"><strong>Stardust: </strong><span style="color: #000000;">Even though I&#8217;m still a rookie, I am happy enough for receiving love from people. I will work hard and continue bringing more good works! By the end of the year, I will also do my best at my concert for my loving fans! Thank you for your support! </span></span></p>
+<p>​​​​​</p>
+<p>The post <a rel="nofollow" href="/interview-between-ia-stardust-about-bml-vr-and-the-future/">Interview Between IA &#038; Stardust About BML VR and the Future</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/interview-between-ia-stardust-about-bml-vr-and-the-future/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VNN Interview with TBK at Dokomi 2017!</title>
+		<link>/vnn-interview-with-tbk-at-dokomi-2017/</link>
+					<comments>/vnn-interview-with-tbk-at-dokomi-2017/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[dotkrawl]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2017 00:15:51 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Alter/Ego]]></category>
+		<category><![CDATA[Voice Provider]]></category>
+		<category><![CDATA[VoxWave]]></category>
+		<guid isPermaLink="false">/?p=108903/</guid>
+
+					<description><![CDATA[<p>This year, VoxWave attended Dokomi in Germany! And, of course, it wouldn&#8217;t be a full VoxWave party without The Baka Kitsune (TBK), Co-Founder of VoxWave, Youtaite, and voice provider of LEORA. The German division of VNN was lucky enough to be able to ask her a few questions about everything she&#8217;s involved in. Here&#8217;s VNN&#8217;s &#8230;</p>
+<p>The post <a rel="nofollow" href="/vnn-interview-with-tbk-at-dokomi-2017/">VNN Interview with TBK at Dokomi 2017!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>This year, <a href="http://vocadb.net/Ar/16810" target="_blank" rel="noopener">VoxWave</a> attended Dokomi in Germany! And, of course, it wouldn&#8217;t be a full VoxWave party without <a href="http://vocadb.net/Ar/16693" target="_blank" rel="noopener">The Baka Kitsune (TBK)</a>, Co-Founder of VoxWave, Youtaite, and voice provider of <a href="http://vocadb.net/Ar/51585" target="_blank" rel="noopener">LEORA</a>. The German division of VNN was lucky enough to be able to ask her a few questions about everything she&#8217;s involved in. Here&#8217;s VNN&#8217;s interview with TBK!</p>
+<h3>The Interview</h3>
+<p><strong>VNN:</strong><em> How are you enjoying Dokomi and Germany so far?</em></p>
+<p><strong>TBK:</strong> It&#8217;s really great! I came to Germany for the last time five years ago, so I was really happy to be able to come back here. It&#8217;s a great time and opportunity to practice my German, too!</p>
+<p>&nbsp;</p>
+<p><strong>VNN:</strong><em> Is there anything you personally want to say to your fans?</em></p>
+<p><strong>TBK:</strong> Keep loving virtual singers! This team is awesome, okay? And keep doing what you like in life. Everything is good, everything is great!</p>
+<p>&nbsp;</p>
+<p><strong>VNN: </strong><em>Regarding your recent work on LEORA, how was recording for you?</em></p>
+<p><strong>TBK:</strong> I already did record an UTAU before, my UTAU <a href="http://vocadb.net/Ar/16694" target="_blank" rel="noopener">Guren Nataku</a>, so I was kinda used to the process. But it was also different with LEORA because we wanted it to be really precise and <a href="http://vocadb.net/Ar/16843" target="_blank" rel="noopener">Drak-pa</a> kept telling me to re-record samples because we needed to have the phoneme sounds to be really precise and specific. So it was a bit longer. We took like an entire weekend to record the French and I still have to record the English, which will be the hardest part, but I really enjoyed it!</p>
+<p>I&#8217;m pretty surprised because LEORA actually has a beautiful high lyrical voice and really beautiful high notes, and I just have recorded a medium voice range, so I&#8217;m kinda confused. I have no idea where they come from, but it&#8217;s cool because it&#8217;s kinda complimentary? I can&#8217;t sing high notes very well and she can sing them for me, which is really cool.</p>
+<p>
+<a href='/wp-content/uploads/2017/03/leora.png'><img width="712" height="475" src="/wp-content/uploads/2017/03/leora.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2017/03/leora.png 712w, /wp-content/uploads/2017/03/leora-300x200.png 300w" sizes="(max-width: 712px) 100vw, 712px" /></a>
+</p>
+<p><strong>VNN: </strong><em>What was your first reaction when you heard LEORA for the first time?<br />
+</em><br />
+<strong>TBK:</strong> Joffrey told me, &#8220;Oh, I can hear your voice in LEORA,&#8221; and I was like, &#8220;Oh, really?&#8221; because I&#8217;m so used to my raw natural voice during the recording process, so it feels completely different for me to hear it through a voice synthesizer. I really don&#8217;t see LEORA as a copy of my voice, really not! I think it&#8217;s a new being, a new entity. It&#8217;s really interesting.</p>
+<p>&nbsp;</p>
+<p><strong>VNN: </strong><em>How would you describe the relationship between LEORA and ALYS?<br />
+</em><br />
+<strong>TBK:</strong> We made LEORA as kind of an &#8220;Alter/Ego,&#8221; if I can say it like that, of <a href="http://vocadb.net/Ar/16811" target="_blank" rel="noopener">ALYS</a> so that she can be everything you want her to be! Some people see them as lovers, others as best friends or even enemies. I personally see it as they&#8217;re from the same world, so they&#8217;re just here together. I like all of the things that they can do together?</p>
+<p>&nbsp;</p>
+<p><strong>VNN: </strong><em>And how would you describe YOUR personal relationship with LEORA?<br />
+</em><br />
+<strong>TBK:</strong> Uhm, that&#8217;s a hard one. I see her like she is a part of me. She&#8217;s everything I can&#8217;t do in public. I like to see her as a warrior, as a berserker, and a strong woman! Sometimes I&#8217;m angry and I can&#8217;t really publicly say, &#8220;I want to destroy it!&#8221; But I feel like LEORA has this attitude where she would say it. I like her; she is my girl, my fighting girl. She&#8217;s our girl with VoxWave and everyone&#8217;s girl.</p>
+<p>&nbsp;</p>
+<p><strong>VNN: </strong><em>If you could say something to LEORA in person, what would that be?</em></p>
+<p><strong>TBK:</strong> Never give up.</p>
+<p>&nbsp;</p>
+<p><strong>VNN: </strong><em>Would you like to perform some day with her side by side?</em></p>
+<p><strong>TBK:</strong> Yes, definitely! To be honest, I already asked Joffrey to do a duet song with LEORA because I really think it would be great and, as I said, she has beautiful high notes. So I think I can do the low parts and she can take over the high parts. I really want to try it!</p>
+<p>&nbsp;</p>
+<p><strong>VNN: </strong><em>What do you wish for LEORA in the future?</em></p>
+<p><strong>TBK:</strong> I hope that people will welcome her just like they did with ALYS. She isn&#8217;t here to replace ALYS; she&#8217;s here to help her! She&#8217;s here to bring forth a new part of their universe. So I really hope people will enjoy LEORA and make songs with her. I just want her to bring something to people.</p>
+<h3>Follow TBK</h3>
+<p>You can follow TBK on the following websites:</p>
+<p><a href="https://tbkitsune.fr/" target="_blank" rel="noopener">Official Website</a><br />
+<a href="http://www.youtube.com/user/TheBakaKitsune" target="_blank" rel="noopener">YouTube</a><br />
+<a href="https://www.facebook.com/TheBakaKitsune" target="_blank" rel="noopener">Facebook</a><br />
+<a href="https://twitter.com/TBKitsune" target="_blank" rel="noopener">Twitter</a></p>
+<h3>Follow VoxWave</h3>
+<p>In addition, you can follow VoxWave on these websites:</p>
+<p><a href="http://www.voxwave.fr/" target="_blank" rel="noopener">Official Website</a><br />
+<a href="http://www.facebook.com/VoxWave" target="_blank" rel="noopener">Facebook</a><br />
+<a href="https://twitter.com/voxwave_studio" target="_blank" rel="noopener">Twitter</a><br />
+<a href="http://www.youtube.com/channel/UCnVc0nQfKwppjvjGFKLpEqA?feature=watch" target="_blank" rel="noopener">YouTube</a><br />
+<a href="http://www.nicovideo.jp/user/66310452" target="_blank" rel="noopener">NND</a></p>
+<p>The post <a rel="nofollow" href="/vnn-interview-with-tbk-at-dokomi-2017/">VNN Interview with TBK at Dokomi 2017!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vnn-interview-with-tbk-at-dokomi-2017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VNN&#8217;s Interview with CircusP + New Album &#8220;715&#8221; Announced!</title>
+		<link>/interview-with-circusp-new-album-715-announced/</link>
+					<comments>/interview-with-circusp-new-album-715-announced/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[dotkrawl]]></dc:creator>
+		<pubDate>Sat, 01 Jul 2017 18:00:42 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Album]]></category>
+		<category><![CDATA[Producer]]></category>
+		<guid isPermaLink="false">/?p=111621/</guid>
+
+					<description><![CDATA[<p>While we at VNN haven&#8217;t had an interview with a specific producer in quite a while, today, there&#8217;s quite some news! Western VOCALOID producer CircusP announced his new album 715, which is to be released on July 15th, 2017! So I, dotkrawl, used that opportunity to interview Circus about himself and his work on the &#8230;</p>
+<p>The post <a rel="nofollow" href="/interview-with-circusp-new-album-715-announced/">VNN&#8217;s Interview with CircusP + New Album &#8220;715&#8221; Announced!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>While we at VNN haven&#8217;t had an interview with a specific producer in quite a while, today, there&#8217;s quite some news! Western VOCALOID producer <a href="http://vocadb.net/Ar/919">CircusP</a> announced his new album <a href="http://vocadb.net/Al/22964"><em>715</em></a>, which is to be released on July 15th, 2017! So I, dotkrawl, used that opportunity to interview Circus about himself and his work on the album! Please enjoy VNN&#8217;s interview with CircusP!</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2017/06/circus_patchesiconfix.jpg"><img loading="lazy" class="aligncenter wp-image-111635 size-medium" src="/wp-content/uploads/2017/06/circus_patchesiconfix-300x300.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2017/06/circus_patchesiconfix-300x300.jpg 300w, /wp-content/uploads/2017/06/circus_patchesiconfix-150x150.jpg 150w, /wp-content/uploads/2017/06/circus_patchesiconfix.jpg 550w" sizes="(max-width: 300px) 100vw, 300px" /></a><em>Image by <a href="http://vocadb.net/Ar/33856">6LIN</a></em></p>
+<p>&nbsp;</p>
+<h3>Who is CircusP?</h3>
+<p>Circus is a producer, well known for his EDM music style. He mainly utilizes western VOCALOIDs and produces a large selection of songs. Some of these have appeared in VOCALOID Rankings while others were <a href="https://www.youtube.com/watch?v=wJfL_GNREWk&amp;list=PLPnvD5D791RJOW3I_oMab7egz8c_AymO0">official demos</a> for new voice banks. One even took first place in the &#8220;<a href="http://mikuexpo.com/contest/">HATSUNE MIKU EXPO SONG CONTEST</a>&#8220;! (&#8220;<a href="http://vocadb.net/S/101224">Ten Thousand Stars</a>.&#8221;)</p>
+<p><iframe loading="lazy" width="618" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F224477598&#038;show_artwork=true&#038;maxwidth=618&#038;maxheight=927"></iframe></p>
+<h3>The Interview with CircusP</h3>
+<p><strong>dotkrawl:</strong> <em>Okay, so first of all, I would like to thank you for your time and the opportunity for the </em><em>interview. I&#8217;m pretty sure there are a lot of people out there who want to know more about you personally</em><em> and your soon-to-be-released album, &#8220;715!&#8221; But let&#8217;s start this a little less specific: How </em><em>did you get into VOCALOID?</em></p>
+<p><strong>Circus:</strong> I&#8217;m happy to be here! But, oh wow, that question honestly has a somewhat embarrassing answer&#8230; I got into VOCALOID around mid to late 2008. I was really into <em>The Melancholy of Haruhi Suzumiya</em> and the ending theme to that series became a huge animation trend. One day, I stumbled upon this video of the dance using this 3D model of a girl with long blue pigtails. I wondered, &#8220;Who&#8217;s that? She sounds awful, but she&#8217;s cute!&#8221; LOL. After that, I looked her up and found out that she was a VOCALOID! And then it just kinda spiraled from there!</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong> <em>I feel like that may be how many fans have found Miku and VOCALOID in general. </em><em>But did you know or find out what a VOCALOID was that moment or did that take longer? I mean, </em><em>a lot of people even today believe VOCALOID is an anime or a game.</em></p>
+<p><strong>Circus:</strong> Well, even as a kid, I knew that research was the key to get into something&#8230; while I might not have immediately gotten into VOCALOID right then and there, when I got more curious, I used my trusty friend Google and found out pretty easily! I didn&#8217;t know about English VOCALOIDs yet, but I was around for Luka&#8217;s release. I remember being super excited to hear a VOCALOID sing in English! So, there might have been a time when I thought it was an anime. But that didn&#8217;t last very long.</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl: </strong><em>Bless Google, honestly. Was that excitement for Luka&#8217;s release and the fact there was an English VOCALOID your inspiration to start writing music? Or did that happen completely unrelated to VOCALOID?</em></p>
+<p><strong>Circus:</strong> That actually didn&#8217;t happen until 2010, which was around a year after Luka&#8217;s release&#8230; overseas producers were in the very early stages then, but I was inspired by a few UTAU producers who were making original songs! Specifically, <a href="http://vocadb.net/Ar/4895" target="_blank" rel="noopener">Yesi-chan</a> really influenced me to try out making my own music. The fact that there was an English VOCALOID to use did help, though&#8230; if Luka didn&#8217;t exist, I probably wouldn&#8217;t have started writing songs in English at all!</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong><em> Imagine Luka never existed. Would you have used Miku for songs or would you have tried other things? Like singing yourself or just producing instrumental tracks?</em></p>
+<p><strong>Circus:</strong> Hmm&#8230; I&#8217;d probably use Rin or Miki to write songs in Japanese! They&#8217;d be very, very bad, though. It wasn&#8217;t until recently that I started to focus on learning more Japanese. So my songs would have been utter nonsense! Haha!</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl: </strong><em>Indeed, but it probably still would&#8217;ve had some charm. Haha. Now let&#8217;s move on to the present, shall we? When you start writing for an album, do you have any theme you try to apply to it? Is there any set inspiration or do you just go with the flow?</em></p>
+<p><strong>Circus:</strong> I suppose I just go with the flow, at least with my past releases. Something that I like to do is post songs as I write them, and then compile them into an album after I have a suitable amount of songs! This way, it&#8217;s like people are with me along the ride of writing an album. Each album documents my growth as an artist within a time period. I&#8217;m planning on trying new things in the future with releases, though! But, for now, that&#8217;s still very early in the works. Haha.</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl: </strong><em>It&#8217;s probably better that way. Otherwise, you would have to set your creativity to </em><em>some kind of a limit by choosing a theme. For your new release, &#8220;715,&#8221; what stage of your growth as </em><em>an artist does it display? Or what do you think, if someone were to ask what emotion this album was </em><em>mostly driven by, would be the answer?</em></p>
+<p><strong>Circus:</strong> Oh wow, hmm&#8230; <em>715</em> is a pretty emotional album, much more so than my first album, <em><a href="http://vocadb.net/Al/1818" target="_blank" rel="noopener">Lucid</a></em>. Up until &#8220;<a href="http://vocadb.net/S/69187" target="_blank" rel="noopener">Goodbye</a>,&#8221; I was writing songs without much emotion put into them. It was more like trying to tell a story that wasn&#8217;t exactly mine. But, starting with &#8220;Goodbye&#8221; and the songs following that one, I really focused on writing my emotions and my experiences! So, I suppose &#8220;715&#8221; is the first release of mine where each song is very much a fragment of myself. I suppose, a common theme of the album is resentment and heartbreak. However, as you progress through the tracks, they start to have an underlying hopeful sound to them. I guess a good way to describe it would be, &#8220;I&#8217;m not okay now, but I will be soon!&#8221;</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong> <em>So, since you&#8217;ve departed from that &#8220;old kind of writing,&#8221; you&#8217;ve tried many new things both on </em><em>the album itself, as well as on the road towards it. Do you feel that you&#8217;ve accomplished your goal to put </em><em>your emotions into the songs or do you think there&#8217;s room to improve?</em></p>
+<p><strong>Circus:</strong> I think that I&#8217;ve definitely become more attached to my music with my newer songs. I feel more connected and a bit more protective of them, honestly! There is always room for improvement, though. I never like to think that I&#8217;ve reached a stopping point with my music. Emotions are intricate and always progressing! Who I am two years ago is not who I am now. I suppose it&#8217;s also been really good for my own growth as a person. I&#8217;m able to pinpoint times in my life where I felt a certain way. Lately, it&#8217;s become less of an attempt to write songs to please other people, and it&#8217;s more like a diary entry with each new release.</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong> <em>So would you say that all songs are, in some way or another, connected to each other? I mean, you&#8217;ve written series before like with &#8220;<a href="http://vocadb.net/S/23345" target="_blank" rel="noopener">Lie</a>&#8221; and &#8220;<a href="http://vocadb.net/S/15636" target="_blank" rel="noopener">I(愛)</a>,&#8221; and on the album itself there&#8217;s kind of a thing, too, with the tracks &#8220;<a href="http://vocadb.net/S/122983" target="_blank" rel="noopener">Different Seas</a>&#8221; and &#8220;Castaway&#8221; being sort of sister-songs, but would you consider the whole album as such?</em></p>
+<p><strong>Circus:</strong> Well, each song is written with a different emotion and initially is not connected in any way&#8230; however, with each full-length album of mine, I have a character that goes along with it that is meant to represent that time in my life! I suppose that even though each song on <em>715</em> varies from emotion and topic, they do correlate in that, when put together, they create &#8220;Glacier!&#8221; The representative character for <em>715</em>!</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2017/06/glacier_cover.png"><img loading="lazy" class="aligncenter wp-image-111647 size-medium" src="/wp-content/uploads/2017/06/glacier_cover-300x300.png" alt="" width="300" height="300" srcset="/wp-content/uploads/2017/06/glacier_cover-300x300.png 300w, /wp-content/uploads/2017/06/glacier_cover-150x150.png 150w, /wp-content/uploads/2017/06/glacier_cover-1024x1024.png 1024w, /wp-content/uploads/2017/06/glacier_cover.png 1425w" sizes="(max-width: 300px) 100vw, 300px" /></a><em>Album cover featuring &#8220;Glacier&#8221; by <a href="http://vocadb.net/Ar/46713">Sleppu</a></em></p>
+<p><strong>dotkrawl:</strong> <em>That&#8217;s interesting to hear and I&#8217;ll come back to that soon! But, for now, let me ask another </em><em>question regarding the songs themselves: Which song do you personally believe to be the most </em><em>important or intense message-wise, and why?</em></p>
+<p><strong>Circus:</strong> Oh gosh, that really varies as time goes by&#8230; I honestly think &#8220;<a href="http://vocadb.net/S/160013" target="_blank" rel="noopener">Poltergeist</a>&#8221; is one of my best songs created so far. But the meaning is a bit hidden behind metaphors and vague lyrics. Haha. I&#8217;d say that I really like how people relate to &#8220;<a href="http://vocadb.net/S/125064" target="_blank" rel="noopener">Copycat</a>!&#8221; It&#8217;s a song that I wrote about something I end up doing (although, taken a bit to an extreme), and seeing other people relate to this trait as well really made me happy! I like writing songs that can connect with people, and helping people find the words that they&#8217;re feeling in that moment means the world to me.</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong> <em>I assume the people are happy as well for having someone they can relate to in hard times. </em><em>Speaking of that, can you talk a bit about the collaboration song with <a href="http://vocadb.net/Ar/9940" target="_blank" rel="noopener">nostraightanswer</a>, &#8220;Patches</em><em>?&#8221; It&#8217;s been a while since you did a collaboration with him, so what made you guys sit down </em><em>together and do this?</em></p>
+<p><strong>Circus:</strong> We&#8217;ve been planning on doing a collaboration for a while, actually! He&#8217;s a VocaloP that I really look up to, so it&#8217;s been really exciting to be able to work with him on a song. I pitched the idea to him and it was initially going to be a solo song as a sort of vocalist debut for myself! However, with the lyrics that were written, we both ended up relating to them a lot and we decided to turn it into a duet! I think that was the best course of action as it sounds super cool now! I&#8217;m very proud of it! Hopefully, everyone will also really enjoy it as well!</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong> <em>I like the song a lot myself, so you guys definitely did a great job on it! Honestly, you can feel </em><em>what parts have been made by you and what parts by Kenji without it interrupting the flow! So may </em><em>I ask about how the workflow felt for you? Isn&#8217;t it sort of limiting your own perspective of the song by </em><em>having someone co-writing it?</em></p>
+<p><strong>Circus:</strong> It definitely didn&#8217;t feel limiting at all with &#8220;Patches!&#8221; I&#8217;ve collaborated with a few different producers and &#8220;Patches&#8221; was one of the smoothest in terms of creation. We tossed around the production file back and forth, so it really felt like a song we worked on 50/50! I&#8217;ve tried that before but it&#8217;s normally very hectic and ends up making the song sound like a mess&#8230; so it was really refreshing that &#8220;Patches&#8221; happened so easily! I love collaborating with other producers because from each song I learn so much, and &#8220;Patches&#8221; definitely taught me a lot!</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong> <em>That&#8217;s good to hear! While we are already speaking of collaborations, you&#8217;ve also been </em><em>collaborating a lot with the artist <a href="http://vocadb.net/Ar/46713" target="_blank" rel="noopener">Sleppu</a> recently. What&#8217;s the most outstanding part of </em><em>their art in your personal opinion and why do you like it?</em></p>
+<p><strong>Circus:</strong> I&#8217;ve been collaborating with Sleppu a lot lately, huh? Haha. I suppose that&#8217;s because I find Slep&#8217;s art a great combination of styles that I really love! His art feels very light and soft, yet he also has the ability to add dark and gritty tones to it. The way that he draws his faces is a style that I really love and his ideas are really great! I contacted him to create the character for this album and his design was exactly what I envisioned! It&#8217;s really rare to find an artist that you are 100% on the same page with.</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong> <em>I fully agree on the last part. So coming back to this, do you want to tell us anything about &#8220;Glacier?&#8221;</em></p>
+<p><strong>Circus:</strong> Hmm&#8230; well, Glacier is a character that I feel represents how I&#8217;d want to present my music at the moment! I&#8217;m very into the icy arctic theme at the moment, so Glacier is designed with that in mind. I feel like this also relates to my music, as the songs kind of have a cool and distant feeling in them.</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong> <em>Does that mean that you&#8217;re going to have another character with your future releases depending on how you progress as a person?</em></p>
+<p><strong>Circus:</strong> For full-length albums, that&#8217;s a trend I would like to continue, yes! However, this doesn&#8217;t mean that every release of mine may follow this&#8230; I suppose the best way to put it is that I&#8217;d like this presentation to be continued for albums similar to <em>Lucid</em> and <em>715</em>, ones that are more so compilations of specific time periods in my life.</p>
+<p>&nbsp;</p>
+<p><strong>dotkrawl:</strong> <em>Thank you very much for your time, then! Just one last question: Is there anything you want </em><em>to say to the readers and your fans?</em></p>
+<p><strong>Circus:</strong> Thank you for the interview. It was a lot of fun to do! Also, I&#8217;d like to thank everyone for supporting me! VOCALOID is what I love and it&#8217;s something I&#8217;m very fortunate to be able to do. However, I wouldn&#8217;t be able to continue to release songs and albums without your support. I hope to continue to improve in my works and bring you better and better albums in the future! At the moment, I feel like <em>715</em> is a compilation of my best works yet, and I hope you all look forward to it! Thank you again!</p>
+<h3>Crossfade</h3>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/vQMGDgO_vP4?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align: center;"><em>&#8220;<a href="http://vocadb.net/Al/22964">715</a>&#8221; Crossfade</em></p>
+<h3>Album Track List</h3>
+<ol>
+<li><a href="http://vocadb.net/S/160571">Introduction</a></li>
+<li><a href="http://vocadb.net/S/98874">Last of Me</a></li>
+<li><a href="http://vocadb.net/S/125064">Copycat</a></li>
+<li><a href="http://vocadb.net/S/114805">Karma </a>(feat. <a href="http://vocadb.net/Ar/11800">Eyeris</a>)</li>
+<li><a href="http://vocadb.net/S/137984">How to Pretend</a></li>
+<li><a href="http://vocadb.net/S/122983">Different Seas</a></li>
+<li><a href="http://vocadb.net/S/128383">Déjà Vu</a></li>
+<li><a href="http://vocadb.net/S/157467">1/4th</a></li>
+<li><a href="http://vocadb.net/S/160572">Patches</a> (feat. <a href="http://vocadb.net/Ar/9940">nostraightanswer</a>) (Human ver.)</li>
+<li><a href="http://vocadb.net/S/160573">Fair Game</a></li>
+<li><a href="http://vocadb.net/S/160574">Castaway</a></li>
+<li><a href="http://vocadb.net/S/160013">Poltergeist</a></li>
+<li><a href="http://vocadb.net/S/137455">Fade</a></li>
+<li><a href="http://vocadb.net/S/160575">Patches</a> (feat. <a href="http://vocadb.net/Ar/9940">nostraightanswer</a>) (VOCALOID ver.)  <em>[bonus track]</em></li>
+<li><a href="http://vocadb.net/S/122983">Different Seas</a> (EmpathP Remix) <em> [bonus track]</em></li>
+<li><a href="http://vocadb.net/S/160577">Castaway</a> (nostraightanswer Remix)  <em>[bonus track]</em></li>
+</ol>
+<p>You can pre-order the album on all common distributors starting today! The album is set to release on July 15th.</p>
+<p><a href="https://circus-p.bandcamp.com/album/715">Bandcamp</a><br />
+<a href="https://itunes.apple.com/us/album/715/id1251167284?at=1001lsY3">iTunes</a><br />
+<a href="https://www.amazon.com/gp/product/B0732NBWWK/ref=as_li_tl?ie=UTF8&#038;camp=1789&#038;creative=9325&#038;creativeASIN=B0732NBWWK&#038;linkCode=as2&#038;tag=vocanewsnetw-20&#038;linkId=67807f821946077fa518147c5e1f8512">Amazon</a><br />
+<a href="https://play.google.com/store/music/album/CircusP_715?id=Bv7btc5phyv5c2344ff7dy6s5au">Google Play<br />
+</a><em>Also available on Apple Music, Spotify, Pandora, Deezer, Tidal, Microsoft Groove, ClaroMusica, Saavn, and Shazam!</em></p>
+<h3>Follow CircusP</h3>
+<p><a href="http://www.youtube.com/user/VocaCircus">YouTube</a><br />
+<a href="https://twitter.com/vocacircus">Twitter</a><br />
+<a href="https://www.facebook.com/cheezitsareyummeh">Facebook</a><br />
+<a href="http://circus-p.bandcamp.com/">Bandcamp</a><br />
+<a href="https://soundcloud.com/circusp">SoundCloud</a><br />
+<a href="https://www.patreon.com/circus">Patreon</a></p>
+<h3>Follow Sleppu</h3>
+<p><a href="https://twitter.com/sleppu_png" target="_blank" rel="noopener">Twitter</a><br />
+<a href="http://sleppu.tumblr.com/" target="_blank" rel="noopener">Tumblr</a></p>
+<p>The post <a rel="nofollow" href="/interview-with-circusp-new-album-715-announced/">VNN&#8217;s Interview with CircusP + New Album &#8220;715&#8221; Announced!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/interview-with-circusp-new-album-715-announced/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

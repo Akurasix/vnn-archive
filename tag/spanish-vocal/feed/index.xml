@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Spanish Vocal Archives - VNN</title>
+	<atom:link href="/tag/spanish-vocal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Everything about virtual voices, just one click away!</description>
+	<lastBuildDate>Wed, 26 Apr 2017 19:47:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/06/cropped-VNNLOGOSQUARE3-32x32.png</url>
+	<title>Spanish Vocal Archives - VNN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MAIKA Power and Soft Confirmed!</title>
+		<link>/maika-power-soft-confirmed/</link>
+					<comments>/maika-power-soft-confirmed/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Hoshi]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2017 18:28:09 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Female Vocal]]></category>
+		<category><![CDATA[Spanish Vocal]]></category>
+		<category><![CDATA[Voctro Labs]]></category>
+		<guid isPermaLink="false">/?p=99611/</guid>
+
+					<description><![CDATA[<p>While many people noticed &#8220;Power&#8221; and &#8220;Soft&#8221; voices available in some of Voctro Lab&#8217;s newest research, the company never specifically said MAIKA Power and Soft were actual voice banks&#8230; until now! A new post from the company confirms that there is indeed a MAIKA Power and a MAIKA Soft. However, please note that these are &#8230;</p>
+<p>The post <a rel="nofollow" href="/maika-power-soft-confirmed/">MAIKA Power and Soft Confirmed!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>While many people noticed &#8220;Power&#8221; and &#8220;Soft&#8221; voices available in some of Voctro Lab&#8217;s newest research, the company never specifically said MAIKA Power and Soft were actual voice banks&#8230; until now! A new post from the company confirms that there is indeed a MAIKA Power and a MAIKA Soft. However, please note that these are NOT confirmed VOCALOID voice banks. Instead, they are used in Voctro&#8217;s new research. And while these could be VOCALOID voice banks in the future, there&#8217;s no confirmation.</p>
+<h3>About the Project</h3>
+<p>While <a href="https://arxiv.org/abs/1704.03809" target="_blank" rel="noopener noreferrer">there&#8217;s a whole research paper</a> available, we&#8217;ll keep things short in layman&#8217;s terms. The project aimed to test how vocal synths would work with a machine programming them versus a human. The research team noticed that current vocal synths can only improve so much and decided to try a different approach. Machine learning, however, usually provided far less realistic results, so the project was made to attempt to get the best of both worlds: the realism of current vocal synths with the flexibility of easier to improve machine learning.</p>
+<h3>MAIKA Power &amp; Soft</h3>
+<div id="fb-root"></div>
+<p><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script></p>
+<div class="fb-post" data-href="https://www.facebook.com/VocaloidMaikaOficial/posts/1446670535396254" data-width="618">
+<blockquote cite="https://www.facebook.com/VocaloidMaikaOficial/posts/1446670535396254" class="fb-xfbml-parse-ignore">
+<p>New #deeplearning singing voice synthesis research by Voctro Labs cofounders using Vocaloid Maika voice, you can hear&#8230;</p>
+<p>Posted by <a href="https://www.facebook.com/VocaloidMaikaOficial/">Vocaloid Maika</a> on&nbsp;<a href="https://www.facebook.com/VocaloidMaikaOficial/posts/1446670535396254">Wednesday, April 26, 2017</a></p></blockquote>
+</div>
+<p>Those who visited <a href="http://www.dtic.upf.edu/~mblaauw/IS2017_NPSS/" target="_blank" rel="noopener noreferrer">the samples website</a> clearly heard MAIKA&#8217;s voice in the Spanish samples. There are &#8220;Mix,&#8221; &#8220;Acapella,&#8221; &#8220;Soft VQ,&#8221; and &#8220;Power VQ&#8221; samples available. However, the Soft and Power VQs weren&#8217;t confirmed to be different banks. For all we knew, the machine could have learned to manipulate the voices to create more powerful or softer vocals.</p>
+<p>As noted earlier, these are NOT confirmed VOCALOID voice banks. While we won&#8217;t rule out the possibility, we also can&#8217;t guarantee it.</p>
+<p>Instead, all we can do is wait. MAIKA doesn&#8217;t have a V4 update yet, so there is a possibility. However, the chance that these voices were just for the research is also a high possibility.</p>
+<h3>More Information</h3>
+<p><a href="https://arxiv.org/abs/1704.03809" target="_blank" rel="noopener noreferrer">Research Paper</a><br />
+<a href="http://www.dtic.upf.edu/~mblaauw/IS2017_NPSS/" target="_blank" rel="noopener noreferrer">Vocal Samples</a> (Please note that the English samples are NOT confirmed to be any available or upcoming voice banks!)<br />
+<a href="https://www.facebook.com/VocaloidMaikaOficial/" target="_blank" rel="noopener noreferrer">Official MAIKA Facebook</a><br />
+<a href="https://www.facebook.com/VoctroLabs/" target="_blank" rel="noopener noreferrer">Voctro Labs Official Facebook</a></p>
+<p>And, as always, stay tuned to VNN for more updates!</p>
+<p>The post <a rel="nofollow" href="/maika-power-soft-confirmed/">MAIKA Power and Soft Confirmed!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/maika-power-soft-confirmed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Buy MAIKA and Get Bruno &#038; Clara for Free!</title>
+		<link>/buy-maika-get-bruno-clara-free/</link>
+					<comments>/buy-maika-get-bruno-clara-free/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Hoshi]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2016 04:12:13 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Female Vocal]]></category>
+		<category><![CDATA[Sale]]></category>
+		<category><![CDATA[Spanish Vocal]]></category>
+		<category><![CDATA[VOCALOID 3]]></category>
+		<guid isPermaLink="false">/?p=74558/</guid>
+
+					<description><![CDATA[<p>December 18th marks VOCALOID MAIKA&#8216;s anniversary! To celebrate her third birthday, Voctro Labs is holding a special anniversary sale until December 22nd! The Sale Until December 22nd, fans can purchase the boxed version of MAIKA for €99 (about $104 USD) and receive the boxed version of Bruno &#38; Clara for free! Bruno and Clara&#8217;s boxed version costs €109 &#8230;</p>
+<p>The post <a rel="nofollow" href="/buy-maika-get-bruno-clara-free/">Buy MAIKA and Get Bruno &#038; Clara for Free!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>December 18th marks VOCALOID <a href="http://vocadb.net/Ar/13431" target="_blank">MAIKA</a>&#8216;s anniversary! To celebrate her third birthday, <a href="http://vocadb.net/Ar/989" target="_blank">Voctro Labs</a> is holding a special anniversary sale until December 22nd!</p>
+<p><a href="/wp-content/uploads/2015/08/MAIKA-1-1.jpg"><img loading="lazy" class="alignleft wp-image-11156" src="/wp-content/uploads/2015/08/MAIKA-1-1-1001x1024.jpg" alt="" width="360" height="368" srcset="/wp-content/uploads/2015/08/MAIKA-1-1-1001x1024.jpg 1001w, /wp-content/uploads/2015/08/MAIKA-1-1-293x300.jpg 293w, /wp-content/uploads/2015/08/MAIKA-1-1-1100x1125.jpg 1100w, /wp-content/uploads/2015/08/MAIKA-1-1.jpg 1330w" sizes="(max-width: 360px) 100vw, 360px" /></a></p>
+<h3>The Sale</h3>
+<p>Until December 22nd, fans can purchase the boxed version of MAIKA for €99 (about $104 USD) and receive the boxed version of <a href="http://vocadb.net/Ar/384" target="_blank">Bruno</a> &amp; <a href="http://vocadb.net/Ar/385" target="_blank">Clara</a> for free! Bruno and Clara&#8217;s boxed version costs €109 (about $114 USD).</p>
+<p>This sale applies ONLY to the boxed versions of the softwares. You can&#8217;t purchase MAIKA&#8217;s download version and receive downloads of Bruno &amp; Clara.</p>
+<p>In addition, these purchases don&#8217;t come with the VOCALOID Editor. In order to use these VOCALOIDs fully, you&#8217;ll have to purchase either the VOCALOID 3 or VOCALOID 4 Editor separately. They do, however, come with the Tiny VOCALOID Editor to get you started.</p>
+<h3>About the VOCALOIDs</h3>
+<p>Bruno, Clara, and MAIKA are all Spanish VOCALOIDs made by Voctro Labs. MAIKA, however, has phonemes that make her able to sing in a variety of languages. Official demos show her singing in Catalan, Italian, English, and Japanese. This makes her voice bank incredibly versatile.</p>
+<p>Bruno and Clara don&#8217;t have the extra phonemes but still offer incredible voices. And with the deal of getting them both for free, it&#8217;s hard to pass up! The Spanish VOCALOID trio is definitely not one to miss and now&#8217;s a great time for lovers of the boxed versions to grab all three for an insanely low price!</p>
+<h3>How to Purchase</h3>
+<p>You can purchase MAIKA&#8217;s boxed and digital versions on Voctro&#8217;s website <a href="http://www.voctro-vocaloid.com/en/maika" target="_blank">here</a>. You can also check out Bruno and Clara <a href="http://www.voctro-vocaloid.com/en/brunoclara" target="_blank">here</a>. The product pages also provide demos of their respective VOCALOIDs, so be sure to check them out!</p>
+<p>You can also skim the VocaDB pages of the three for even more songs.</p>
+<p><a href="http://vocadb.net/Ar/13431" target="_blank">MAIKA</a><br />
+<a href="http://vocadb.net/Ar/384" target="_blank">Bruno</a><br />
+<a href="http://vocadb.net/Ar/385" target="_blank">Clara</a></p>
+<p>Please note that VocaDB is not affiliated with Voctro Labs and is simply a database created by the community. Unless specifically marked as an official demo, the song isn&#8217;t officially recognized by Voctro Labs.</p>
+<p>You can also follow MAIKA on Facebook <a href="https://www.facebook.com/VocaloidMaikaOficial/" target="_blank">here</a>.</p>
+<p>The post <a rel="nofollow" href="/buy-maika-get-bruno-clara-free/">Buy MAIKA and Get Bruno &#038; Clara for Free!</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/buy-maika-get-bruno-clara-free/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VOCAMERICA Q&#038;A Stream Recap</title>
+		<link>/vocamerica-qa-stream-recap/</link>
+					<comments>/vocamerica-qa-stream-recap/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Hoshi]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2016 18:33:44 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Merchandise]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Concert]]></category>
+		<category><![CDATA[English Vocal]]></category>
+		<category><![CDATA[Spanish Vocal]]></category>
+		<category><![CDATA[VOCAMERICA]]></category>
+		<guid isPermaLink="false">/?p=9589</guid>
+
+					<description><![CDATA[<p>Last night, EmpathP held a VOCAMERICA Q&#38;A stream to give fans a chance to ask questions about the concert. Hoshi tuned in to the two hour long stream and collected the answers to all of the questions fans had about the concert. If you&#8217;d like to watch the whole stream, feel free to do so &#8230;</p>
+<p>The post <a rel="nofollow" href="/vocamerica-qa-stream-recap/">VOCAMERICA Q&#038;A Stream Recap</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Last night, EmpathP held a VOCAMERICA Q&amp;A stream to give fans a chance to ask questions about the concert. Hoshi tuned in to the two hour long stream and collected the answers to all of the questions fans had about the concert. If you&#8217;d like to watch the whole stream, feel free to do so <a href="https://www.youtube.com/watch?v=Chuk_vDeRgA" target="_blank">here</a>. Otherwise, here&#8217;s the recap!</p>
+<h3>Kickstarter</h3>
+<p><a href="/wp-content/uploads/2016/06/kickstarter-logo-light.png"><img loading="lazy" class="alignleft wp-image-9590" src="/wp-content/uploads/2016/06/kickstarter-logo-light.png" alt="kickstarter-logo-light" width="275" height="32" srcset="/wp-content/uploads/2016/06/kickstarter-logo-light.png 1000w, /wp-content/uploads/2016/06/kickstarter-logo-light-300x35.png 300w" sizes="(max-width: 275px) 100vw, 275px" /></a>Fans following the VOCAMERICA news know that EmpathP has been planning a Kickstarter for some time. She even announced <a href="/vocamerica-kickstarter-stretch-goals-announced1/" target="_blank">the stretch goals</a> last month. While she hasn&#8217;t named all of the goals or the Kickstarter rewards, the live stream did give fans a few ideas as to what to expect.</p>
+<p>The Kickstarter is set to start no later than June 28th and will last for 35 days. So start saving your money now!</p>
+<h5>Known Rewards and Tiers</h5>
+<p>Two tiers were mentioned during the live stream, Gold and Platinum. These are likely the top two tiers. In addition, a special tier was also announced.</p>
+<p><strong>Gold Tier</strong><br />
+Cost: $80 USD<br />
+Known Rewards: The DVD of the first concert as well as all physical prizes in the lower tiers.</p>
+<p><strong>Platinum Tier</strong><br />
+Cost: $100<br />
+Known Rewards: The MMD models used in the concert as well as other digital and physical rewards.</p>
+<p><strong>Special Tier</strong><br />
+Cost: $1,000<br />
+This tier is only available to a single person. The person who buys this tier will be able to have their own UTAU put into the show. There are no language requirements nor is there a requirement for what type of UTAU it is (CV, VCV, etc). However, the bank must be pre-approved by Aki before you can buy the tier. This will require emailing her, and approvals will be granted on a first-come, first-served basis. Do <strong>not</strong> email her until the Kickstarter is up.</p>
+<p>In addition, to keep things honest and in the spirit of the Kickstarter, people are <strong>not</strong> allowed to start up a &#8220;GoFundMe&#8221; or &#8220;Kickstarter&#8221; pages to get the $1,000 needed. They must pay on their own.</p>
+<h5>Known Merchandise</h5>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/VOCAMERICA?src=hash">#VOCAMERICA</a> DEX and DAINA keychain previews! <a href="https://t.co/tWvu7F8y8g">pic.twitter.com/tWvu7F8y8g</a></p>
+<p>&mdash; EmpathP@VOCAMERICA (@AkiGlancy) <a href="https://twitter.com/AkiGlancy/status/740674147555119104">June 8, 2016</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Physical merchandise will consist of key chains, t-shirts, the original soundtrack for the concert, and possibly other items, too. These will be available on Kickstarter, and everything but the DVD will ship two weeks before the first concert so that fans can wear their items to the concert. (The DVD, of course, can&#8217;t be made until after the concert.)</p>
+<p>In addition, there will be Kickstarter-exclusive merchandise as well. When choosing the keychain reward on the Kickstarter, fans can decide if they want the regular Dex and Daina keychains or if they want the Kickstarter-exclusive &#8220;Shadow Fox Daina&#8221; and &#8220;Ginger Wolf Dex&#8221; who, as the names may suggest, are Dex and Daina with the other characters&#8217; color scheme.</p>
+<h5>Stretch Goals</h5>
+<p>In addition to the stretch goals <a href="/vocamerica-kickstarter-stretch-goals-announced1/" target="_blank">previously announced</a>, Aki talked about two other stretch goals and the addition of other stretch goals.</p>
+<p>The first stretch goal (of an unidentified amount) will be glow sticks. She&#8217;s unsure if she can get custom glow sticks with &#8220;VOCAMERICA&#8221; on them at the moment, but she will definitely try to get glow sticks to pass out for free if the first stretch goal is met.</p>
+<p>The second (and biggest) stretch goal mentioned is a $100,000 USD goal. Anyone who&#8217;s attended a fan-made VOCALOID concert in the past knows that the quality can vary quite a bit. And while VOCAMERICA has good projection equipment, there is still room to improve. The $100k goal will go towards getting the ideal projection equipment to make concerts as high quality as possible.</p>
+<p>Finally, she offered fans the chance to decide if they want different costumes for the characters. If fans are interested, they should tweet Aki at <a href="https://twitter.com/AkiGlancy" target="_blank">@AkiGlancy</a> using the hashtag #VOCAMERICA and let her know what outfit(s) they&#8217;d like to see.</p>
+<h3>Concert Location</h3>
+<p>While it&#8217;s not set in stone yet, Aki hopes to have the first concert at Nekocon in Hampton, Virginia. This is not a definite yet and they are still in negotiation, but there&#8217;s a high chance this will be the location.</p>
+<p>If the first concert goes well, other cons planned are Otakon, Otakon Vega, Katsucon, and Castle Point. However, none of these cons have been contacted yet as Aki is waiting for the first concert so that she can have a portfolio to show other conventions.</p>
+<h3>Concert Info</h3>
+<p>Most of the songs played at the concert are going to be electronic, but some of EmpathP&#8217;s ballads will make appearances as well. The main goal was to create a set list filled with songs that people would want to dance to and have fun with.</p>
+<p>There will be no live band due to budget constraints.</p>
+<p>All producers with songs in VOCAMERICA will be listed on the Kickstarter. The track list, however, is something Aki wants to keep secret for a bit longer.</p>
+<p>If the first concert goes well, fans can expect the first year of concerts to be free. These concerts will be held at conventions, and purchasing a ticket to the convention will grant you access to the concert.</p>
+<p>Donating to the Kickstarter will allow people to see choreography early.</p>
+<p>The concert will be around an hour long.</p>
+<p>The performers were already announced and more information on them can be found <a href="/vocamerica-performers-announced-1/" target="_blank">here</a>. They are:<br />
+1.) DEX<br />
+2.) DAINA<br />
+3.) MAIKA<br />
+4.) Aiko Kikyuune<br />
+5.) Namida (Empathy Studios mascot)<br />
+6.) RUBY</p>
+<p>https://www.facebook.com/yoistyle/photos/a.399925753472645.1073741828.399887003476520/823256304472919/?type=3&#038;theater</p>
+<h3>Conclusion</h3>
+<p>While other VOCALOIDs may be added later, Aki and VNN both ask that you focus on the Kickstarter first. Aki has been paying the animators, choreographers, and model makers all out of her pocket. While $5,000 USD will be the goal to pay for what she needs, the stretch goals will bring more amazing content and for new supporters some nice merchandise.</p>
+<p>We&#8217;ll announce the opening of the Kickstarter as soon as it&#8217;s up. Let&#8217;s keep sharing VOCAMERICA news to get as many people hyped as possible!</p>
+<p>The post <a rel="nofollow" href="/vocamerica-qa-stream-recap/">VOCAMERICA Q&#038;A Stream Recap</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vocamerica-qa-stream-recap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Road to Producers: An Interview with Project OverDoze</title>
+		<link>/the-road-to-producers-an-interview-with-project-overdoze/</link>
+					<comments>/the-road-to-producers-an-interview-with-project-overdoze/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Hoshi]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2016 00:47:06 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[English Vocal]]></category>
+		<category><![CDATA[Female Vocal]]></category>
+		<category><![CDATA[Japanese Vocal]]></category>
+		<category><![CDATA[Producer]]></category>
+		<category><![CDATA[Spanish Vocal]]></category>
+		<guid isPermaLink="false">https://rayduxz.cl/vnn/?p=3803</guid>
+
+					<description><![CDATA[<p>What is Project OverDoze?</p>
+<p>Project OverDoze is a group of producers and artists from all over the globe. TSUtauSeries (Tsus) and Starapture (Star) both hail from New York City, New York, while Shius is located in Japan, Steampianist (Steam) from the Philippines, and Nova (.Nova) from Norway.</p>
+<p>Tsus is a co-founder of the circle as</p>
+<p>The post <a rel="nofollow" href="/the-road-to-producers-an-interview-with-project-overdoze/">The Road to Producers: An Interview with Project OverDoze</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h3><a href="/wp-content/uploads/2016/02/OverDozeLogo.png" rel="attachment wp-att-3804"><img loading="lazy" class=" wp-image-3804 alignleft" src="/wp-content/uploads/2016/02/OverDozeLogo.png" alt="OverDozeLogo" width="365" height="365" /></a>What is Project OverDoze?</h3>
+<p><a href="http://vocadb.net/Ar/41698" target="_blank">Project OverDoze</a> is a group of producers and artists from all over the globe. <a href="http://vocadb.net/Ar/25193" target="_blank">TSUtauSeries</a> (Tsus) and <a href="http://starapture.deviantart.com/" target="_blank">Starapture</a> (Star) both hail from New York City, New York, while <a href="http://vocadb.net/Ar/34708" target="_blank">Shius</a> is located in Japan, <a href="http://vocadb.net/Ar/16341" target="_blank">Steampianist</a> (Steam) from the Philippines, and <a href="http://vocadb.net/Ar/46230" target="_blank">Nova</a> (.Nova) from Norway.</p>
+<p>Tsus is a co-founder of the circle as well as a lyricist and vocal tuner.</p>
+<p>Steam, the other co-founder, is a composer and mixer.</p>
+<p>Shius is the main translator and co-lyricist of Project OverDoze as well as an animator and artist. You have him to thank for the Japanese translations in the English songs and the Japanese lyrics in others.</p>
+<p>Nova is the main animator as well as an artist.</p>
+<p>And Star rounds it all out as the main artist and an animator as well.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<h3>Interview with Project OverDoze</h3>
+<p>The interview was conducted in two separate parts due to the timezone issues. We sent questions in ahead of time for everyone to answer and then sat down with Tsus to get more in-depth.</p>
+<h4>Part One</h4>
+<figure id="attachment_3806" aria-describedby="caption-attachment-3806" style="width: 295px" class="wp-caption alignleft"><a href="/wp-content/uploads/2016/02/OLIVERBoxArt.png" rel="attachment wp-att-3806"><img loading="lazy" class=" wp-image-3806" src="/wp-content/uploads/2016/02/OLIVERBoxArt.png" alt="VOCALOID Oliver's Box Art" width="295" height="366" /></a><figcaption id="caption-attachment-3806" class="wp-caption-text">VOCALOID Oliver&#8217;s Box Art</figcaption></figure>
+<h4>How Did You Get into VOCALOID?</h4>
+<p><strong>Tsus:</strong> I got into Vocaloid in 6th grade, so in 2009 when a friend showed me a MMD video of <a href="http://vocadb.net/Ar/1" target="_blank">Hatsune Miku</a> dancing to Renai Circulation. I got completely obsessed with her and looked up more videos. I then, being the anime freak I was back then, researched everything I could about Vocaloids and attempted making a &#8220;Vocaloid&#8221; through the UTAU program (I still have a lot of old singing files; they&#8217;re quite terrible.)</p>
+<p>Anyway, that got me super into music and I started playing instruments and taking vocal lessons. In 2011 when Vocaloid <a href="http://vocadb.net/Ar/383" target="_blank">Oliver</a> was released, I begged my mom to buy him! And she did. He was my first Vocaloid and the first time I had even seen what the software looked like.</p>
+<p><strong>.Nova:</strong> I started out listening to utaite covers of Vocaloid songs, not knowing what Vocaloid was. I got pretty curious as to who made the original songs of all these covers, so I searched the originals up and, although I found it a bit weird at first, Vocaloid slowly grew on me.</p>
+<p><strong>Shius:</strong> Okay, so, I got into Vocaloid because of <a href="http://vocadb.net/Ar/189" target="_blank">mothy</a>, I think. I knew some characters like <a href="http://vocadb.net/Ar/514" target="_blank">Yowane Haku</a>, and I was just kinda a fan of only her for some years while I lived in Japan. Then I found the existence of Engloids through Vocaloid Oliver, and THAT&#8217;S when I finally got IN to Vocaloid after I noticed the lack of Engloid fame and PVs made for western Vocaloids.</p>
+<p><strong>Steampianist:</strong> I got into Vocaloid in a weird phase of my life where I was interested in the esoteric stuff and applying it to music. I found Vocaloid to have all these occult aspects (alchemy like taking a soul/voice and transforming it into a whole new being lol). <a href="http://vocadb.net/Ar/23193" target="_blank">Morb</a> (my partner/friend) introduced me to a demo of a Vocaloid called &#8220;Oliver&#8221; singing <a href="http://vocadb.net/S/43745" target="_blank">Scarborough Fair</a> and I got intrigued and read about Vocaloid, listened to some Japanese producers, and realized I wanted to get in on this. So I asked morb if she could help me out with lyrics but with the condition the first song made had to be with Oliver.</p>
+<p><strong>Starapture:</strong> My first exposure to Vocaloid was through my time animating on Flipnote Hatena, starting when I was around ten years old. I didn&#8217;t really get into Vocaloid until last year, when my best friend dragged me into her KagePro phase. Since then, I&#8217;ve gotten deeper into this hellhole, especially for the PV aspect of the community.</p>
+<h5>What Inspired You to Make VOCALOID Music?</h5>
+<p><strong>Tsus:</strong> Honestly, back in the day, I wanted the popularity that came with it. I felt so insecure in my school and family; I was growing up and I wanted a place where I could belong, and I loved music so much I felt that I could make friends through it. I learned very quickly that it wasn&#8217;t the case though. A lot of people I met were very mean and almost elitist. The select few that were genuine were from all over the place and it was hard to keep the friendships. I took a huge hiatus and tried to figure myself out before I realized I wanted to write music for myself. Like diary entries I could share with the world. Vocaloid allowed me to be creative without having to feel hindered or restricted.</p>
+<p><strong>Steampianist:</strong> Not inspired, I guess? Rather motivated by the fact that Vocaloid was like a blank slate and I knew I could probably give something new&#8230; well, not new but something that was really obscure to the Vocaloid scene like steampunk, dark cabaret, or music inspired from western cartoons.</p>
+<h5>Why Did You Choose the VOCALOIDs You Did?</h5>
+<p><strong>Tsus:</strong> Well, song wise, I always write songs based off the Vocaloid itself. I look at them and go, well, &#8220;These are abilities you have and this is what I want, so it has to be you.&#8221; Buying wise, Vocaloid is a part of my life and I aim to collect all of them and write songs for each one. I own all of the V2 era Vocaloids (except for VY1 and VY2, who were no longer sold when I started buying Vocaloids).</p>
+<p><strong>Steampianist:</strong> I originally wanted <a href="http://vocadb.net/Ar/2803" target="_blank">Avanna</a> or any female English Vocaloid really, but, due to my agreement with morb, I couldn&#8217;t. Plus, at that time I couldn&#8217;t write lyrics to save my life so I had no choice. I had to get Oliver. But I must admit I&#8217;ve grown fond of using &#8220;Oliver&#8221;. Avanna at that time was new-ish?</p>
+<h5>Do You Find Any VOCALOIDs Notably Easy or Difficult to Work With?</h5>
+<figure id="attachment_2799" aria-describedby="caption-attachment-2799" style="width: 308px" class="wp-caption alignright"><a href="/wp-content/uploads/2016/02/Dex.jpg" rel="attachment wp-att-2799"><img loading="lazy" class=" wp-image-2799" src="/wp-content/uploads/2016/02/Dex.jpg" alt="Dex's Box Art" width="308" height="467" /></a><figcaption id="caption-attachment-2799" class="wp-caption-text">Dex&#8217;s Box Art</figcaption></figure>
+<p><strong>Tsus:</strong> All Vocaloids have quirks and all of them have different &#8220;personalities&#8221; almost; depending on what you want, some can do it easier than others. To be honest, in my opinion, the easiest English Vocaloid to use is Avanna. Yes, her consonants are a bit hard but she&#8217;s almost completely flawless. The most difficult Engloid to use is a tie between <a href="http://vocadb.net/Ar/200" target="_blank">Sonika</a> and <a href="http://vocadb.net/Ar/25258" target="_blank">Ruby</a>. Sonika has her background noise issues and Ruby is wonderful in her lower register, but failed to meet my expectation with her nasality in her upper range.</p>
+<p>The easiest Japanese Vocaloid to use is Hatsune Miku; her broad range and clarity is very basic and allows for anyone to control and bend her data at will. The hardest is <a href="http://vocadb.net/Ar/247" target="_blank">Gachapoid</a>&#8230; need I say more? <a href="http://vocadb.net/Ar/385" target="_blank">The</a> <a href="http://vocadb.net/Ar/384" target="_blank">Spanish</a> <a href="http://vocadb.net/Ar/13431" target="_blank">Vocaloids</a> are all pretty easy and I won&#8217;t speak on <a href="http://vocadb.net/Ar/193" target="_blank">SeeU</a> since I don&#8217;t know Korean, nor will I say anything about the <a href="http://vocadb.net/T/61/chinese-vocaloid" target="_blank">Chinese Vocaloids</a> since I haven&#8217;t used them yet.</p>
+<p><strong>Steampianist:</strong> I have three Vocaloids. <a href="http://vocadb.net/Ar/4634" target="_blank">Gumi English</a> and <a href="http://vocadb.net/Ar/1766" target="_blank">Mayu</a> are both easy to work with. Oliver was tricky to use. When I first tuned Oliver, it felt so tedious to work with him because it sounds like he&#8217;s eating his vowels in faster tempos and certain note durations like sixteenth notes, so I was sort of limited when mixing Oliver in an instrumental. However, it becomes easy but still needs certain methods for him to fit just right into the mix.</p>
+<p>Also, I&#8217;d like to add that Miku in our song &#8220;<a href="http://vocadb.net/S/101436" target="_blank">Synthetic Girl</a>&#8221; was a challenge to mix, cause her frequency in the EQ kept changing due to a specific tuning style that my partner, Tsus, did on her. But I found <a href="http://vocadb.net/Ar/388" target="_blank">Miriam</a> in our upcoming song to be the hardest to mix due to her being a V1 generation and it&#8217;s just all that engine noise. I had to remove it and render her again and again with the tweaks I&#8217;ve done to her voice. It was hell.</p>
+<p><strong>Shius:</strong> Oliver and <a href="http://vocadb.net/Ar/36169" target="_blank">Dex</a> (especially Dex) are really easy to work with. <a href="http://vocadb.net/Ar/21165" target="_blank">vFlower</a> constantly sounds bored, so she&#8217;s a lot harder.</p>
+<figure id="attachment_3812" aria-describedby="caption-attachment-3812" style="width: 1280px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2016/02/SyntheticGirlUnblurred.png" rel="attachment wp-att-3812"><img loading="lazy" class="size-full wp-image-3812" src="/wp-content/uploads/2016/02/SyntheticGirlUnblurred.png" alt="&quot;Synthetic Girl&quot; art by Starrapture. " width="1280" height="720" /></a><figcaption id="caption-attachment-3812" class="wp-caption-text">&#8220;Synthetic Girl&#8221; Art (Blur Free Version) by <a href="http://starapture.tumblr.com/post/129757551315/drawn-for-overdozes-miku-expo-contest-song-entry" target="_blank">Starrapture</a>.</figcaption></figure>
+<h5>Where Do You Get Your Inspiration for Songs?</h5>
+<p><strong>Tsus:</strong> All of my songs are based off of my feelings and life experiences or the experiences of my friends and families. Each song I write holds a piece of me, of my truth. They all have their broad meanings for everyone to relate to, but if you know who I am, you could see the hidden meanings.</p>
+<p><strong>Shius:</strong> I get my influences from the likes of <a href="http://vocadb.net/Ar/553" target="_blank">Nashimoto-P</a>, <a href="http://vocadb.net/Ar/5045" target="_blank">AdyS</a>, metal singers like Hollywood Undead, and rap, like Eminem. Though I have a hard time replicating their dark and heavy sounds, it&#8217;s something I&#8217;m aiming to do in the future.</p>
+<p>My inspirations come from random chord progressions when I compose songs &#8211; what start off as random bits of music become songs when I find out what works together.</p>
+<p><strong>Steampianist:</strong> For me, it&#8217;s usually from books, cartoons, and other music artists/bands that I like.</p>
+<h5>How Do You Come up with Your Amazing PVs?</h5>
+<p><strong>Tsus:</strong> I kinda picture the PV in my head and then spout out nonsense to my animators and artists. They get me and know how to take my vision to the next level. They&#8217;re just amazing, wonderful people.</p>
+<p><strong>Shius:</strong> My PVs come mainly from the mood set by the song and lyrics given to me by Tsus. I try to interpret them in a way that fits the song but is not completely mundane or unoriginal. I am most proud of my &#8220;<a href="http://vocadb.net/S/112720" target="_blank">Ten Thousand</a>&#8221; PV, in which I made the concept, art, and video. In the case of abstract songs like those, I try to add a visual story so there are two ways of interpreting the song: one that is abstract, and one that is (albeit, mildly) coherent.</p>
+<p><strong>.Nova:</strong> It&#8217;s by no means a quick process! Normally, I spend about a week planning out my videos, and then the making of the video itself will take somewhere between 1-3 weeks, all depending on how many illustrations/how edit-heavy the video&#8217;s going to be. With every video I make, I try to include something new, such as a technique I&#8217;ve never used before or a drawing style I haven&#8217;t tried, and I try my best to always maintain a high standard of quality!</p>
+<p><strong>Steampianist:</strong> I don&#8217;t do PVs; I usually let .Nova, Shius, and Morb do their own thing. I&#8217;m not too specific with the visuals. Well, at least as long as it makes sense along with the whole of the song.</p>
+<p><iframe loading="lazy" width="618" height="348" src="https://www.youtube.com/embed/e3EumJm6iw8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<h5>What&#8217;s It like Working with so Many Different People from Around the World?</h5>
+<p><strong>Tsus:</strong> It&#8217;s scary, honestly. These people are miles away from me and, personally, I can&#8217;t go two days without seeing my IRL friends. But that&#8217;s the thing: these people are my IRL friends. It&#8217;s more than a mutual love of Vocaloid and music that puts us together; for me at least, each member of my group is my family. I know it might be a bit strange or creepy, but I care so much for each one of them, I truly do love them so much, and I know they might not know that, but the thought of logging in one day and them not being there, of them just disappearing and just being oceans apart, the thought of me not ever knowing if they&#8217;re safe and happy. It&#8217;s scary.</p>
+<p><strong>.Nova:</strong> I can imagine working with my next door neighbor to be no different than working with these people. That is to say, I hardly notice that we come from such different places! When I joined the project, I was prepared to handle communication issues due to cultural differences but, so far, we&#8217;ve had nothing of the sort. We all get along really well and I&#8217;m very grateful about that!</p>
+<p><strong>Shius:</strong> To be honest, it feels great. There are so many different views and ways of doing things you can learn by just talking to your teammates &#8211; but so many things you can agree on as well. Considering the fact that I&#8217;m Japanese, there are a lot of things that differ between me and my western counterparts, but it&#8217;s interesting to know that some things don&#8217;t change as well.</p>
+<p><strong>Steampianist:</strong> Well, it&#8217;s really interesting to meet people from other countries, but generally it&#8217;s great and fun to work with other people regardless of where they are from. Well, most of the time&#8230; hehehehe.</p>
+<p><strong>Starapture:</strong> It&#8217;s interesting and irritating to work with people from all over the world. It&#8217;s interesting to see so many different cultures and languages mixed together, (and only one white person LOL plus like 4.2+ languages, right&#8230; the .2 is Chinese) and it&#8217;s irritating to be in at least three different time zones at any given moment. All the interesting conversations happen while I&#8217;m at school, it&#8217;s tragic&#8230; Ultimately, we all get along really well despite the age and time gaps, and it&#8217;s a great group to be in! Even if Nova&#8217;s a loser. lmao.</p>
+<p>The post <a rel="nofollow" href="/the-road-to-producers-an-interview-with-project-overdoze/">The Road to Producers: An Interview with Project OverDoze</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-road-to-producers-an-interview-with-project-overdoze/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MAIKA Design Contest for Art Book Announced</title>
+		<link>/maika-design-contest-for-art-book-announced/</link>
+					<comments>/maika-design-contest-for-art-book-announced/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Hoshi]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2015 04:58:06 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Art Book]]></category>
+		<category><![CDATA[Contest]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Spanish Vocal]]></category>
+		<guid isPermaLink="false">https://rayduxz.cl/vnn/?p=3168</guid>
+
+					<description><![CDATA[<p>Noriko Hayashi, in collaboration with Akuo and Yoistyle, has announced a design contest for a new version of VOCALOID MAIKA. This MAIKA Design Contest asks fans to design a new outfit with the theme of "Sky".<br />
+The Contest<br />
+The theme of the contest is "Sky". Using either the template provided or your own, you must</p>
+<p>The post <a rel="nofollow" href="/maika-design-contest-for-art-book-announced/">MAIKA Design Contest for Art Book Announced</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.facebook.com/norikohayashiartist/?fref=photo" target="_blank">Noriko Hayashi,</a> in collaboration with <a href="https://www.facebook.com/akuoart/" target="_blank">Akuo</a> and <a href="https://www.facebook.com/mmdfansadan/" target="_blank">Yoistyle,</a> has announced a design contest for a new version of VOCALOID MAIKA. This MAIKA Design Contest asks fans to design a new outfit with the theme of &#8220;Sky&#8221;.</p>
+<h3>The Contest</h3>
+<p>The theme of the contest is &#8220;Sky&#8221;. Using either <a href="http://sta.sh/0av22rlc229" target="_blank">the template provided</a> or your own, you must draw the front and back view of the proposed outfit in as high a resolution as possible. A 3/4 view can be included but is not a requirement.</p>
+<p>Fans have until January 10th, 2016 at 11:59 PM (23:59 UTC/GMT + 1 hour) to submit a PNG image without a background to skymaika@hotmail.com. Any image sent after this deadline will not be counted.</p>
+<h5>The Rules</h5>
+<p>The rules can be found in English and Spanish in <a href="https://www.facebook.com/norikohayashiartist/posts/930276587041819:0" target="_blank">Noriko&#8217;s announcement</a>.</p>
+<blockquote>
+<ul>
+<li>Only one entry per person. Once sent, modifications aren&#8217;t allowed.</li>
+<li>There is no age limit.</li>
+<li>The contest is open to everyone. (It&#8217;s international.)</li>
+<li>The designs can be shown publicly before the contest ends.</li>
+<li>The designs have to be shown as clear as possible with at least the front and back view. A ¾ and profile view is optional. Only flat colors, gradations, patterns and transparencies are allowed. There should be no shadows or illumination effects in general. However, you can create additional images without these restrictions, but they will not be counted.</li>
+<li>You do not have to use MAIKA&#8217;s original color palette.</li>
+<li>You can change MAIKA&#8217;s hair.</li>
+<li>The design can be done digitally or traditionally. If done traditionally, you need a high quality photograph or scan. <em>(Remember that the background must be transparent!)</em></li>
+<li>The quality of the design, not the drawing itself, will be judged.</li>
+<li>The winning entry may be slightly changed.</li>
+<li>Taking part in the contest gives Noriko and any associate party the right to reproduce your design and use it in merchandise. By entering the contest, you give up these rights.</li>
+<li>The judge’s decision is irrevocable.</li>
+</ul>
+</blockquote>
+<figure id="attachment_3267" aria-describedby="caption-attachment-3267" style="width: 480px" class="wp-caption alignleft"><a href="https://rayduxz.cl/vnn/wp-content/uploads/sites/14/2015/12/MaikaTemplate.jpg"><img loading="lazy" class="wp-image-3267" src="https://rayduxz.cl/vnn/wp-content/uploads/sites/14/2015/12/MaikaTemplate.jpg" alt="MaikaTemplate" width="480" height="289" srcset="/wp-content/uploads/2015/12/MaikaTemplate.jpg 960w, /wp-content/uploads/2015/12/MaikaTemplate-300x181.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /></a><figcaption id="caption-attachment-3267" class="wp-caption-text">Image uploaded by <a href="https://www.facebook.com/norikohayashiartist/photos/a.535778563158292.1073741828.535041359898679/930952003640944/?type=3&amp;theater" target="_blank">Noriko Hayashi</a> for the template download.</figcaption></figure>
+<h3>The Prizes</h3>
+<p><strong>1st Place:</strong> The MAIKA art book signed and dedicated to the entrant, MAIKA merchandise, and the design will be drawn by Noriko and appear in the art book as one of MAIKA&#8217;s official designs.<br />
+<strong>2nd Place:</strong> The MAIKA art book signed and dedicated to the entrant, and MAIKA merchandise.<br />
+<strong>3rd Place:</strong> The MAIKA art book signed and dedicated to the entrant.</p>
+<p>The post <a rel="nofollow" href="/maika-design-contest-for-art-book-announced/">MAIKA Design Contest for Art Book Announced</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/maika-design-contest-for-art-book-announced/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VOCALOID Is Multisingual: The Languages of VOCALOID</title>
+		<link>/vocaloid-is-multisingual/</link>
+					<comments>/vocaloid-is-multisingual/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Rilliane]]></dc:creator>
+		<pubDate>Sun, 23 Aug 2015 23:26:13 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Chinese Vocal]]></category>
+		<category><![CDATA[Korean Vocal]]></category>
+		<category><![CDATA[Spanish Vocal]]></category>
+		<guid isPermaLink="false">https://rayduxz.cl/vocaloid/?p=1074</guid>
+
+					<description><![CDATA[<p>VOCALOID has been capable of giving people the chance to make their own songs and use voice banks represented by virtual idols to sing those songs. One of the things that’s very impressive is that these voice banks can sing in a number of languages. For the most part, we’re aware that VOCALOIDs can sing</p>
+<p>The post <a rel="nofollow" href="/vocaloid-is-multisingual/">VOCALOID Is Multisingual: The Languages of VOCALOID</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>VOCALOID has been capable of giving people the chance to make their own songs and use voice banks represented by virtual idols to sing those songs. One of the things that’s very impressive is that these voice banks can sing in a number of languages. For the most part, we’re aware that VOCALOIDs can sing in Japanese, as well as English. But the software isn&#8217;t limited to just those two languages. From Spanish to Chinese, there are VOCALOIDs that are designed to sing in languages that are beyond what we are typically used to hear from them. For this editorial, the focus will be on the ones that sing in languages that aren’t just Japanese or English. Let’s take a trip to the VOCALOIDs of other languages.</p>
+<h3>Korean</h3>
+<figure id="attachment_1133" aria-describedby="caption-attachment-1133" style="width: 598px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/08/SeeU-2-1.jpg"><img loading="lazy" class="wp-image-1133 size-large" src="/wp-content/uploads/2015/08/SeeU-598x1024-1.png" alt="" width="598" height="1024" /></a><figcaption id="caption-attachment-1133" class="wp-caption-text">SeeU&#8217;s Official Art</figcaption></figure>
+<p>Let’s turn our attention to the first language sung by a VOCALOID that wasn’t solely Japanese and/or English. The VOCALOID 1 and VOCALOID 2 softwares both were limited to their voice banks singing in either of the two aforementioned languages. It wasn’t until VOCALOID 3 where that began to change. <a href="http://vocadb.net/Ar/193" target="_blank">SeeU</a> (released in October 2011), was the first VOCALOID to sing in a language besides Japanese or English: Korean. However, she is also capable of singing in Japanese.</p>
+<p>A few of her Korean language songs include <a href="http://vocadb.net/S/8461" target="_blank"><em>Shining</em> <em>Star</em></a>, <em><a href="http://vocadb.net/S/8449" target="_blank">RUN</a></em>, and <a href="http://vocadb.net/S/8463" target="_blank"><em>Umbrella</em></a> (not to be confused with the Rihanna song). At this time, SeeU is the only VOCALOID with a Korean voice bank.</p>
+<p>There is a new virtual singer that has been announced to also sing in Korean. Her name is <a href="http://vocadb.net/Ar/28174" target="_blank">UNI</a> and she was originally announced in November 2014 with <a href="https://rayduxz.cl/vocaloid/2015/08/04/vocaloid-uni-illustration-revealed/" target="_blank">an updated announcement</a> in August 2015 and expected release date of sometime in 2015.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/rRt9P9DD5pU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<hr />
+<h3>Spanish</h3>
+<figure id="attachment_1153" aria-describedby="caption-attachment-1153" style="width: 1001px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/08/BrunoClara-1-1.jpg"><img loading="lazy" class="wp-image-1153 size-large" src="/wp-content/uploads/2015/08/BrunoClara-1-1001x1024-1.jpg" alt="" width="1001" height="1024" /></a><figcaption id="caption-attachment-1153" class="wp-caption-text">Bruna and Clara&#8217;s Boxart</figcaption></figure>
+<p>The next new language to be introduced to the program was Spanish. The first duo to sing in Spanish were <a href="http://vocadb.net/Ar/384" target="_blank">Bruno</a> and <a href="http://vocadb.net/Ar/385" target="_blank">Clara</a>. There was a bit of controversy with these two, not so much because of their singing, but more because of their design. Regardless, their release was still in 2011.</p>
+<p>Their songs are typically sung together or Clara singing with <a href="http://vocadb.net/Ar/13431" target="_blank">MAIKA</a>, the third Spanish singing VOCALOID.</p>
+<p>However, they still have some songs that they sing on their own. Clara’s songs include <a href="http://vocadb.net/S/68687" target="_blank"><em>A Banshee Named 42</em></a>, <a href="http://vocadb.net/S/66226" target="_blank"><em>Más que Nada</em></a>, and <em><a href="http://vocadb.net/S/66235" target="_blank">Un día de Amistad</a></em>.</p>
+<p>A few of Bruno’s solo songs are <em><a href="http://vocadb.net/S/9351" target="_blank">El manisero</a></em>, <em><a href="https://www.youtube.com/watch?v=Sr04KyG5BWE" target="_blank">La Flaka</a></em>, and <a href="http://vocadb.net/S/9354" target="_blank"><em>El Makoki</em></a>.</p>
+<p>You can hear Bruno and Clara singing together in<em> <a href="http://vocadb.net/S/68783" target="_blank">Blanco &amp; Negro</a>, <a href="http://vocadb.net/S/68683" target="_blank">Electronegative</a>, </em>and<em> <a href="http://vocadb.net/S/67989" target="_blank">Ballroom Breakdown</a></em>.</p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/xAjReUIycZY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<figure id="attachment_1154" aria-describedby="caption-attachment-1154" style="width: 1001px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/08/MAIKA-1-1.jpg"><img loading="lazy" class="wp-image-1154 size-large" src="/wp-content/uploads/2015/08/MAIKA-1-1001x1024-1.jpg" alt="" width="1001" height="1024" /></a><figcaption id="caption-attachment-1154" class="wp-caption-text">MAIKA&#8217;s Box Art</figcaption></figure>
+<p>The next VOCALOID to sing in Spanish was MAIKA. She was released in December of 2013, two years after Bruno and Clara were made available. It should also be noted that MAIKA is also capable of singing in Catalan as heard in <em><a href="http://vocadb.net/S/41607" target="_blank">Fantasia</a></em>, along with Brazilian Portuguese (<em><a href="http://vocadb.net/S/98768" target="_blank">Garota de Ipanema</a></em>) and Italian (<a href="http://vocadb.net/S/98769" target="_blank"><em>Una Notte a Napoli</em></a>) thanks to extra phonemes added to her voice bank. These are languages that have yet to be sung by any other VOCALOID.</p>
+<p>Back on to MAIKA’s Spanish songs, a couple of examples would be <em><a href="http://vocadb.net/S/40572" target="_blank">En tu Mirar</a></em> and<em> <a href="http://vocadb.net/S/44227" target="_blank">Ni Una Sola Palabra</a></em>. Beyond these three VOCALOIDs, there are no other Spanish voice banks to talk about and there are currently no announcements on the development of another Spanish voice bank.</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/f3gbyT2Jhso" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<hr />
+<h3>Chinese</h3>
+
+<a href='/wp-content/uploads/2015/08/LTianyi-1.jpg'><img width="171" height="300" src="/wp-content/uploads/2015/08/LTianyi-1-171x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/08/LTianyi-1-171x300.jpg 171w, /wp-content/uploads/2015/08/LTianyi-1.jpg 507w" sizes="(max-width: 171px) 100vw, 171px" /></a>
+<a href='/wp-content/uploads/2015/08/YANHE-1.jpg'><img width="105" height="300" src="/wp-content/uploads/2015/08/YANHE-1-105x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/08/YANHE-1-105x300.jpg 105w, /wp-content/uploads/2015/08/YANHE-1.jpg 327w" sizes="(max-width: 105px) 100vw, 105px" /></a>
+
+<p>Continuing the languages of VOCALOID 3, there is <a href="http://vocadb.net/Ar/1778" target="_blank">Luo Tianyi</a> (on the left), a female voice capable of singing in Mandarin Chinese. Her initial release was in July 2012. A few of her songs in Mandarin include <a href="http://vocadb.net/S/13721" target="_blank"><em>March Rain</em></a>, <a href="http://vocadb.net/S/13723" target="_blank"><em>Millennium Recipe Song</em></a>, and <em><a href="http://vocadb.net/S/13722" target="_blank">Natural Story</a></em>.</p>
+<p>Following in her footsteps, <a href="http://vocadb.net/Ar/10025" target="_blank">YANHE</a> (on the right) came next as the second female Mandarin Chinese voice bank. She was released one year after Tianyi in July 2013 and her songs include <em><a href="http://vocadb.net/S/32614" target="_blank">Rain of Dreams</a></em> and <em>Stage 1</em>.</p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/O81obkiajKg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><embed src="https://static-s.bilibili.com/miniloader.swf" type="application/x-shockwave-flash" width="544" height="452"></embed></p>
+
+<a href='/vocaloid-is-multisingual/xin_hua_wo_text/'><img width="212" height="300" src="/wp-content/uploads/2015/08/Xin_hua_wo_text-212x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/08/Xin_hua_wo_text-212x300.jpg 212w, /wp-content/uploads/2015/08/Xin_hua_wo_text.jpg 600w" sizes="(max-width: 212px) 100vw, 212px" /></a>
+<a href='/vocaloid-is-multisingual/yuezheng_ling/'><img width="93" height="300" src="/wp-content/uploads/2015/08/Yuezheng_Ling-1-93x300.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/08/Yuezheng_Ling-1-93x300.jpg 93w, /wp-content/uploads/2015/08/Yuezheng_Ling-1.jpg 258w" sizes="(max-width: 93px) 100vw, 93px" /></a>
+
+<p>Xin Hua was released this year, 2015, in the month of February but fans knew about her as early as 2014. She&#8217;s the third released female Mandarin Chinese vocal. It&#8217;s worth noting that she was the first Chinese VOCALOID to come from Taiwan. Her songs include <em>Shī</em> and <a href="http://vocadb.net/S/93630" target="_blank"><em>Huá Xīn Cǎi</em></a>.</p>
+<p>Also released this year was <a href="http://vocadb.net/Ar/23972" target="_blank">Yuezheng Ling</a>, the fourth public mandarin Chinese female vocal. She was released during the month of July. There aren’t many songs with her as of now, but you can still listen to her in <a href="http://vocadb.net/S/90012" target="_blank"><em>Scarlet Drop</em></a><em> and </em><a href="http://vocadb.net/S/90963" target="_blank"><em>Mèng Yǔ</em></a>.</p>
+<p>There are three Chinese singing VOCALOIDs currently in production: <a href="http://vocadb.net/Ar/35966" target="_blank">Stardust</a>, <span class="extraInfo"><a href="http://vocadb.net/Ar/23974" target="_blank">Zhanyin Lorra</a></span>, and <span class="extraInfo"><a href="http://vocadb.net/Ar/39621" target="_blank">Yuezheng Longya</a>,</span> with Longya confirmed to be the first male Chinese vocal after many fans were upset after Stardust (the 6th female Chinese voice bank) was announced. There is also a Chinese prototype of <a href="http://vocadb.net/Ar/15665" target="_blank">Macne Nana</a> that was set aside for future release.</p>
+<p>Whether any of the future Chinese VOCALOIDs will be capable of singing in Cantonese is unknown at this time.</p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/mbND-ji57OM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/5RMwvHwnB98" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<hr />
+<h3>Are There Any More Languages They Can Sing?</h3>
+<figure id="attachment_1251" aria-describedby="caption-attachment-1251" style="width: 1000px" class="wp-caption aligncenter"><a href="https://rayduxz.cl/vocaloid/wp-content/uploads/sites/6/2015/08/the_best_moment_by_sartika3091-d6sc6ro.jpg"><img loading="lazy" class="wp-image-1251 size-full" src="/wp-content/uploads/2015/08/the_best_moment_by_sartika3091-d6sc6ro-1.jpg" alt="Art by sartika3091 on Deviantart" width="1000" height="676" /></a><figcaption id="caption-attachment-1251" class="wp-caption-text">Art by <a href="http://sartika3091.deviantart.com/" target="_blank">sartika3091</a> on <a href="http://sartika3091.deviantart.com/art/The-Best-Moment-410394948" target="_blank">DeviantArt</a></figcaption></figure>
+<p>At the time of this editorial, there aren’t any other languages that have been confirmed that future VOCALOIDs will be able to sing in. Though Macne Nana had the possibility of obtaining a French voice bank, the possibility of it happening has been determined to be limited.</p>
+<p>That doesn’t mean more languages won’t happen, though. It’ll most likely take some time because it&#8217;s necessary to consider the pronunciations and dialects that need to be incorporated to resemble human speech.</p>
+<p>VOCALOID is growing in popularity worldwide with the help of concerts taking place in China, Spain, France, Indonesia, and the United States. Who knows what the next language will be? Maybe one day VOCALOIDs will be capable of singing in all of the major languages of the world.</p>
+<p>What languages would you like to hear VOCALOIDs singing in? It can be a new one that has yet to happen or one that you feel doesn’t get used enough.</p>
+<p>The post <a rel="nofollow" href="/vocaloid-is-multisingual/">VOCALOID Is Multisingual: The Languages of VOCALOID</a> appeared first on <a rel="nofollow" href="/">VNN</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vocaloid-is-multisingual/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
